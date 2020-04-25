@@ -2,10 +2,11 @@
 layout: col-sidebar
 title: OWASP LATAM@home 2020 - 4 al 8 de Mayo
 tags: LATAM@home2020
-pitch: The LATAM@home event is....
+level: 0
+<!--pitch: The LATAM@home event is....-->
 
 ---
-{: style="text-align: justify" }
+<!--{: style="text-align: justify" }-->
 
 El OWASP LATAM@Home 2020, es una gira que se realiza a través de los Capítulos de OWASP en Latinoamérica para promover la seguridad WEB y llevar filosofía OWASP a todos los sectores de la sociedad.
 
