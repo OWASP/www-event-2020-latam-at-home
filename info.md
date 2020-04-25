@@ -1,10 +1,8 @@
-### Contacts:
-
-####Leader
+###Leader
 
 * [Diego Gonzalez](mailto:diego.gonzalez.arango@owasp.org) (Panamá)
 
-####Collaborators
+###Collaborators
 
 * [John Vargas](mailto:john.vargas@owasp.org) (Perú)
 * [Mateo Martinez](mailto:mateo.martinez@owasp.org) (Uruguay)
