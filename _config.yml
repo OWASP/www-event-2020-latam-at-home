@@ -1,4 +1,3 @@
 remote_theme: "owasp/www-event-2020-latam-at-home"
 plugins:
  - jekyll-include-cache-0.2.0
-repository: OWASP/www-event-2020-latam-at-home
