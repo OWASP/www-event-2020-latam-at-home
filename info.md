@@ -2,7 +2,7 @@
 
 ####Leader
 
-* [Diego Gonzalez](mailto:diego.gonzalez.arango@owasp.org) (Panama City Chapter Leader)
+* [Diego Gonzalez](mailto:diego.gonzalez.arango@owasp.org) (Panamá)
 
 ####Collaborators
 
@@ -11,4 +11,8 @@
 * [Ramiro Pulgar](mailto:ramiro.pulgar@owasp.org) (Ecuador)
 * [Ricardo Supo](mailto:ricardo.supo@owasp.org) (Brazil)
 
-### Redes Sociales
+### Social Links
+* [Twitter](https://twitter.com/owasplatam)
+* [Facebook](https://www.facebook.com/owasp.latam)
+* [Slack](http://owasp.slack.com/#owasp-latam)
+
