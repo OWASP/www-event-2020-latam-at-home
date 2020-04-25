@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP LATAM@home 2020 - 4 al 8 de Mayo
-tags: LATAM@home2020
+tags: LatamTour
 level: 0
 <!--pitch: The LATAM@home event is....-->
 
