@@ -71,49 +71,49 @@ tags: LatamTour2020
   </tr>
   <tr>
     <td>16:00-16:40</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Diego Ademir: OWASP ASVS, Guía de seguridad para aplicaciones web por excelencia</td>
+    <td>Dahum Deavila: Seguridad Informática desde las Perspectiva del usuario Final</td>
+    <td>Mateo Martínez: Implementando OWASP SAMM en Latinoamerica</td>
+    <td>Alejandro Lacobelli, Pablo Garbossa: Bug Bounty, One year later</td>
+    <td>Jaime Restrepo: Lo que nadie te dijo antes de dedicarte al Bug bounty</td>
   </tr>
 <tr>
     <td>16:40-17:20</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Adam Shostack: Threat Modeling Lessons from Star Wars</td>
+    <td>Alonso Caballero: Análisis Forense a Sistemas Windows</td>
+    <td>Saira Isaac: Auditoría y Seguridad en las APPs</td>
+    <td>Ramiro Pulgar: Red Team, El Cyber Team Auditor</td>
+    <td>Juampa Rodríguez: Recolección de Información en infraestructuras internas</td>
   </tr>
 <tr>
     <td>17:20-18:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Gustavo Nieves: Threat Modeling Automatizado</td>
+    <td>John Copete: por definir</td>
+    <td>Anabel Broce: Implementando en Producción un Sistema con una Arquitectura Segura</td>
+    <td>Edgard Salazar: Los controles de seguridad más importantes para arquitectos y desarrolladores</td>
+    <td>Everth Gallegos: Preparando un ambiente de pruebas para apps con Xamarin</td>
   </tr>
 <tr>
     <td>18:00-18:40</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Elvin Mollinedo: por definir</td>
+    <td>Darwin Algarin: por definir</td>
+    <td>Fernando Vela: Análisis de Malware con Docker</td>
+    <td>Sandy Palma: La Gobernanza de la Información</td>
+    <td>Juan Quiñe: Cómo generar valor a través del informe de Ethical hacking</td>
   </tr>
 <tr>
     <td>18:40-19:20</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Por definir</td>
+    <td>Luis Pazmiño: Escalada de privilegios y movimientos laterales en ambientes windows y Linux</td>
+    <td>Raúl Aguilar: por definir</td>
+    <td>Fernando Vela: SOC y Threat Intelligence</td>
+    <td>Ramiro Pulgar: Plataformas Open Source para Simulación de Ataques</td>
   </tr>
 <tr>
     <td>19:20-20:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Gabriel Llumiquinga: Desarrollo de las Cyber Comunidades en la Región</td>
+    <td>Josué Rojas: From window to SYSTEM, developing an exploit</td>
+    <td>Armando Rodas: OSINT, Técnicas de Reconocimiento en un Test de Intrusión</td>
     <td></td>
     <td></td>
   </tr>
