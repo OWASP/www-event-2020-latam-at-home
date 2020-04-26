@@ -27,7 +27,7 @@ tags: LatamTour2020
     <td></td>
     <td></td>
     <td></td>
-    <td><b>Daniel Echeverría</b>: Hacking avanzado con ZAP Proxy<br></td>
+    <td><b>Daniel Echeverría</b>:<br>Hacking avanzado con ZAP Proxy</td>
   </tr>
     <tr>
     <td>10:40-11:20</td>
@@ -35,7 +35,7 @@ tags: LatamTour2020
     <td></td>
     <td></td>
     <td></td>
-    <td>Mikel Rufian: La ciberinteligencia complemento indispensable para las organizaciones<br></td>
+    <td><b>Mikel Rufian</b>:<br>La ciberinteligencia complemento indispensable para las organizaciones</td>
   </tr>
     <tr>
     <td>11:20-12:00</td>
@@ -43,7 +43,7 @@ tags: LatamTour2020
     <td></td>
     <td></td>
     <td></td>
-    <td>Por definir<br></td>
+    <td>Por definir</td>
   </tr>
   <tr>
     <td>12:00-12:40</td>
@@ -51,7 +51,7 @@ tags: LatamTour2020
     <td></td>
     <td></td>
     <td></td>
-    <td>Lorenzo Martinez: Tema por definir<br></td>
+    <td></b>Lorenzo Martinez</b>:<br>Tema por definir</td>
   </tr>
   <tr>
     <td>12:40-13:20</td>
@@ -59,7 +59,7 @@ tags: LatamTour2020
     <td></td>
     <td></td>
     <td></td>
-    <td>Por definir<br></td>
+    <td>Por definir</td>
   </tr>
   <tr>
     <td>13:20-14:00</td>
@@ -67,7 +67,7 @@ tags: LatamTour2020
     <td></td>
     <td></td>
     <td></td>
-    <td>Por definir<br></td>
+    <td>Por definir</td>
   </tr>
 
 </table>
@@ -81,7 +81,7 @@ tags: LatamTour2020
     <td></td>
     <td></td>
     <td></td>
-    <td>Daniel Echeverría: Hacking avanzado con ZAP Proxy<br></td>
+    <td><br></td>
   </tr>
 
    -->

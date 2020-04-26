@@ -70,17 +70,3 @@ tags: LatamTour2020
     <td></td>
   </tr>
 </table>
-
-<!--
- <td style="min-width: 200px"></td>
-
-  <tr>
-    <td>10:40-11:20</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>Daniel Echeverría: Hacking avanzado con ZAP Proxy<br></td>
-  </tr>
-
-   -->

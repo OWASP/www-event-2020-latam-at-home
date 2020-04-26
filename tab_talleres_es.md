@@ -42,7 +42,7 @@ tags: LatamTour2020
     <td>Por definir</td>
     <td>Por definir</td>
     <td>Por definir</td>
-    <td>Por definir<br></td>
+    <td>Por definir</td>
   </tr>
   <tr>
     <td>20:00-22:00</td>
