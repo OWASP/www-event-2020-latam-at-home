@@ -23,65 +23,122 @@ tags: LatamTour2020
   </tr>
   <tr>
     <td>10:00-10:40</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>\-</td>
+    <td>\-</td>
+    <td>\-</td>
+    <td>\-</td>
     <td><b>Daniel Echeverría</b>:<br>Hacking avanzado con ZAP Proxy</td>
   </tr>
     <tr>
     <td>10:40-11:20</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>\-</td>
+    <td>\-</td>
+    <td>\-</td>
+    <td>\-</td>
     <td><b>Mikel Rufian</b>:<br>La ciberinteligencia complemento indispensable para las organizaciones</td>
   </tr>
     <tr>
     <td>11:20-12:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>\-</td>
+    <td>\-</td>
+    <td>\-</td>
+    <td>\-</td>
     <td>Por definir</td>
   </tr>
   <tr>
     <td>12:00-12:40</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></b>Lorenzo Martinez</b>:<br>Tema por definir</td>
+    <td>\-</td>
+    <td>\-</td>
+    <td>\-</td>
+    <td>\-</td>
+    <td><b>Lorenzo Martinez</b>:<br>Tema por definir</td>
   </tr>
   <tr>
     <td>12:40-13:20</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>\-</td>
+    <td>\-</td>
+    <td>\-</td>
+    <td>\-</td>
     <td>Por definir</td>
   </tr>
   <tr>
     <td>13:20-14:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>\-</td>
+    <td>\-</td>
+    <td>\-</td>
+    <td>\-</td>
     <td>Por definir</td>
   </tr>
-
-</table>
-
-<!--
- <td style="min-width: 200px"></td>
-
   <tr>
-    <td>10:40-11:20</td>
+    <td>16:00-16:40</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td><br></td>
+    <td></td>
   </tr>
-
-   -->
+<tr>
+    <td>16:40-17:20</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+<tr>
+    <td>17:20-18:00</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+<tr>
+    <td>18:00-18:40</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+<tr>
+    <td>18:40-19:20</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+<tr>
+    <td>19:20-20:00</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+<tr>
+    <td>20:00-20:40</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+<tr>
+    <td>20:40-21:20</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+<tr>
+    <td>21:20-22:00</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
