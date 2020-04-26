@@ -21,7 +21,7 @@ tags: LatamTour2020
     <th width="18%">Viernes 8</th>
   </tr>
   <tr>
-    <td>14:00-16:00</td>
+    <td rowspan="2">14:00-16:00</td>
     <td><b>Emiliano Piscitelli</b>:<br>Introducción a OSINT e Ingeniería Social</td>
     <td><b>Carlos Isaac</b>:<br>Haciendo una Aplicación Java Zombi</td>
     <td><b>Ricardo Supo</b>:<br>SQL Injection para todos</td>
@@ -29,7 +29,6 @@ tags: LatamTour2020
     <td><b>Cris Lima</b>:<br>Docker, un laboratorio de pentesting</td>
   </tr>
     <tr>
-    <td>16:00-18:00</td>
     <td><b>José Moreno</b>:<br>OSINT Ofensivo</td>
     <td><b>Christian Javier</b>:<br>Posicionamiento Absoluto y Temporal de Dispositivos Móviles</td>
     <td><b>Roberto Rubio</b>:<br>Manejo de las IP’s Públicas. Es un "Single Point Of Entry"</td>
