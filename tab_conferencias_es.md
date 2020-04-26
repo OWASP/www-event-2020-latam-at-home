@@ -1,7 +1,7 @@
 ---
 
 title: conferencias_es
-displaytext: Conferencias
+displaytext: Conferencias ES
 layout:  col-sidebar
 tab: true
 order: 1
@@ -9,9 +9,9 @@ tags: LatamTour2020
 
 ---
 
-
+<br>
 ## Conferencias del 4 al 8 de Mayo de 2020 (Horario GMT-5)
-
+<br>
 <table width="100%" border="1" style="text-align:justify;">
   <tr>
     <th width="10%">Horas</th>

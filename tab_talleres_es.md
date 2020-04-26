@@ -1,7 +1,7 @@
 ---
 
-title: talleres
-displaytext: Talleres
+title: talleres_es
+displaytext: Talleres ES
 layout:  col-sidebar
 tab: true
 order: 4

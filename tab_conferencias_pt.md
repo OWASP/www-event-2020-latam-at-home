@@ -1,7 +1,7 @@
 ---
 
 title: conferencias_pt
-displaytext: Palestras
+displaytext: Palestras PT
 layout:  col-sidebar
 tab: true
 order: 3
@@ -9,9 +9,9 @@ tags: LatamTour2020
 
 ---
 
-
-## Conferencias del 4 al 8 de Mayo de 2020 (Horario GMT-5)
-
+<br>
+## Palestras de 4 a 8 de maio de 2020 (horário GMT-5)
+<br>
 <table width="100%" border="1" style="text-align:justify;">
   <tr>
     <th width="10%">Horas</th>
@@ -27,7 +27,7 @@ tags: LatamTour2020
     <td></td>
     <td></td>
     <td></td>
-    <td><b>Daniel Echeverría</b>: Hacking avanzado con ZAP Proxy<br></td>
+    <td></td>
   </tr>
     <tr>
     <td>10:40-11:20</td>
@@ -35,7 +35,7 @@ tags: LatamTour2020
     <td></td>
     <td></td>
     <td></td>
-    <td>Mikel Rufian: La ciberinteligencia complemento indispensable para las organizaciones<br></td>
+    <td></td>
   </tr>
     <tr>
     <td>11:20-12:00</td>
@@ -43,7 +43,7 @@ tags: LatamTour2020
     <td></td>
     <td></td>
     <td></td>
-    <td>Por definir<br></td>
+    <td></td>
   </tr>
   <tr>
     <td>12:00-12:40</td>
@@ -51,7 +51,7 @@ tags: LatamTour2020
     <td></td>
     <td></td>
     <td></td>
-    <td>Lorenzo Martinez: Tema por definir<br></td>
+    <td></td>
   </tr>
   <tr>
     <td>12:40-13:20</td>
@@ -59,7 +59,7 @@ tags: LatamTour2020
     <td></td>
     <td></td>
     <td></td>
-    <td>Por definir<br></td>
+    <td></td>
   </tr>
   <tr>
     <td>13:20-14:00</td>
@@ -67,9 +67,8 @@ tags: LatamTour2020
     <td></td>
     <td></td>
     <td></td>
-    <td>Por definir<br></td>
+    <td></td>
   </tr>
-
 </table>
 
 <!--
