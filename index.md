@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP LATAM at Home 2020
-tags: LatamTour
+tags: LatamTour2020
 type: documentation
 level: 4
 auto-migrated: 0

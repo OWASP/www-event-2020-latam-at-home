@@ -1,10 +1,10 @@
 ---
 title: Conferencias
 displaytext: Conferencias
-layout:  null
+layout:  col-sidebar
 tab: true
 order: 1
-tags: LatamTour
+tags: LatamTour2020
 ---
 
 <!--
