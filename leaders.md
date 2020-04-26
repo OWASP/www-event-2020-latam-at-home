@@ -1,8 +1,6 @@
-###Leader
+###Leaders
 
 * [Diego Gonzalez](mailto:diego.gonzalez.arango@owasp.org)
-
-###Colaboradores
 
 * [John Vargas](mailto:john.vargas@owasp.org)
 * [Mateo Martinez](mailto:mateo.martinez@owasp.org)
