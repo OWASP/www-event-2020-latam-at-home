@@ -81,7 +81,7 @@ tags: LatamTour2020
     <td>16:40-17:20</td>
     <td><b>Adam Shostack</b>:<br>Threat Modeling Lessons from Star Wars</td>
     <td><b>Alonso Caballero</b>:<br>Análisis Forense a Sistemas Windows</td>
-    <td><b>Saira Isaac</b>:<br>Auditoría y Seguridad en las APPs</td>
+    <td><b>Saira Isaac</b>:<br>Auditoría y Seguridad en las Apps</td>
     <td><b>Ramiro Pulgar</b>:<br>Red Team, El Cyber Team Auditor</td>
     <td><b>Juampa Rodríguez</b>:<br>Recolección de Información en infraestructuras internas</td>
   </tr>
@@ -112,7 +112,7 @@ tags: LatamTour2020
 <tr>
     <td>19:20-20:00</td>
     <td><b>Gabriel Llumiquinga</b>:<br>Desarrollo de las Cyber Comunidades en la Región</td>
-    <td><b>Josué Rojas</b>:<br>From window to SYSTEM, developing an exploit</td>
+    <td><b>Josué Rojas</b>:<br>From window to System, developing an exploit</td>
     <td><b>Armando Rodas</b>:<br>OSINT, Técnicas de Reconocimiento en un Test de Intrusión</td>
     <td><b>Eduardo Snape</b>:<br>Gestión de seguridad con ISM3, la alternativa luego de un Pentest</td>
     <td><b>Rodrigo Valero</b>:<br>Protección de acceso a las aplicaciones bajo Secure Access Service Edge</td>
