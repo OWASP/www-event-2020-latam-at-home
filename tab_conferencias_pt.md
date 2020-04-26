@@ -4,7 +4,7 @@ title: conferencias_pt
 displaytext: Palestras PT
 layout:  col-sidebar
 tab: true
-order: 3
+order: 2
 tags: LatamTour2020
 
 ---

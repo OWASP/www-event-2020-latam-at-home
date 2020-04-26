@@ -4,7 +4,7 @@ title: talleres_es
 displaytext: Talleres ES
 layout:  col-sidebar
 tab: true
-order: 4
+order: 3
 tags: LatamTour2020
 
 ---
