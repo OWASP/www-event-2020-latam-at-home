@@ -1,10 +1,10 @@
 ---
 
-title: conferencias
-displaytext: Conferencias
+title: conferencias_pt
+displaytext: Palestras
 layout:  col-sidebar
 tab: true
-order: 1
+order: 3
 tags: LatamTour2020
 
 ---

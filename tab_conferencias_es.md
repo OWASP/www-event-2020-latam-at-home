@@ -1,6 +1,6 @@
 ---
 
-title: conferencias
+title: conferencias_es
 displaytext: Conferencias
 layout:  col-sidebar
 tab: true
