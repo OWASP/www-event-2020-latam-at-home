@@ -12,7 +12,7 @@ tags: LatamTour2020
 
 ## Conferencias - 4 al 8 de Mayo de 2020 (Horario GMT-5)
 
- <table>
+ <table width="100%">
   <tr>
     <th>Horario</th>
     <th>Lunes 4</th>
