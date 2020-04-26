@@ -23,50 +23,50 @@ tags: LatamTour2020
   </tr>
   <tr>
     <td>10:00-10:40</td>
-    <td>\-</td>
-    <td>\-</td>
-    <td>\-</td>
-    <td>\-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
     <td><b>Daniel Echeverría</b>:<br>Hacking avanzado con ZAP Proxy</td>
   </tr>
     <tr>
     <td>10:40-11:20</td>
-    <td>\-</td>
-    <td>\-</td>
-    <td>\-</td>
-    <td>\-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
     <td><b>Mikel Rufian</b>:<br>La ciberinteligencia complemento indispensable para las organizaciones</td>
   </tr>
     <tr>
     <td>11:20-12:00</td>
-    <td>\-</td>
-    <td>\-</td>
-    <td>\-</td>
-    <td>\-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
     <td>Por definir</td>
   </tr>
   <tr>
     <td>12:00-12:40</td>
-    <td>\-</td>
-    <td>\-</td>
-    <td>\-</td>
-    <td>\-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
     <td><b>Lorenzo Martinez</b>:<br>Tema por definir</td>
   </tr>
   <tr>
     <td>12:40-13:20</td>
-    <td>\-</td>
-    <td>\-</td>
-    <td>\-</td>
-    <td>\-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
     <td>Por definir</td>
   </tr>
   <tr>
     <td>13:20-14:00</td>
-    <td>\-</td>
-    <td>\-</td>
-    <td>\-</td>
-    <td>\-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
     <td>Por definir</td>
   </tr>
   <tr>
@@ -114,31 +114,31 @@ tags: LatamTour2020
     <td>Gabriel Llumiquinga: Desarrollo de las Cyber Comunidades en la Región</td>
     <td>Josué Rojas: From window to SYSTEM, developing an exploit</td>
     <td>Armando Rodas: OSINT, Técnicas de Reconocimiento en un Test de Intrusión</td>
-    <td></td>
-    <td></td>
+    <td>Eduardo Snape: Gestión de seguridad con ISM3, la alternativa luego de un Pentest</td>
+    <td>Rodrigo Valero: Protección de acceso a las aplicaciones bajo Secure Access Service Edge</td>
   </tr>
 <tr>
     <td>20:00-20:40</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Eduardo Casanovas, Carlos Tapia: Por definir</td>
+    <td>Salvador Mendoza: NFC Copy Cat, Open source to test payment systems</td>
+    <td>Pablo Rico: Introducción a TheHive como plataforma de respuesta a incidentes</td>
+    <td>Rafael Monterroza: Machine Learning aplicado a la Ciberseguridad</td>
+    <td>Amilcar de León: Ingeniería social, el arte o la ciencia del hackeo de personas?</td>
   </tr>
 <tr>
     <td>20:40-21:20</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Por definir</td>
+    <td>Hector Aguirre: por definir</td>
+    <td>Michael Hidalgo: MITRE ATT&CK, conociendo al adversario</td>
+    <td>Hubert de Mercado: Seguridad REST API, Lo bueno, lo malo y lo feo</td>
+    <td>Elezer Pineda: Threat Hunting sin colores</td>
   </tr>
 <tr>
     <td>21:20-22:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Por definir</td>
+    <td>Victor Vera: por definir</td>
+    <td>Roberto Mendoza: Conociendo y Analizando la Dark Web</td>
+    <td>Ricardo Supo Picón: Hacking en tiempos de COVID-19, Transformación Digital sin Controles</td>
+    <td>Gonzalo Nina: Técnicas efectivas de Ingeniería Social a través de redes sociales</td>
   </tr>
 </table>
