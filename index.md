@@ -1,6 +1,6 @@
 ---
 
-layout: col-sidebar
+<!--layout: col-sidebar-->
 title: OWASP LATAM at Home 2020
 tags: LatamTour
 level: 0
