@@ -30,4 +30,7 @@ Los talleres van a utilizar la plataforma xxxxx. Esta plataforma es gratuita y t
 
 Para las presentaciones, se utilizará la plataforma xxxxx de streaming. No tendrán límites de cupos pero sí contará con registro de participantes.
 
+## Capítulos Participantes
+
+Damos las gracias a todos los [capítulos latinoamericanos](/chapters/#SouthAmerica) que han participado en las charlas y talleres de este evento, donde te invitamos que te unas a cada capítulo de tu ciudad y país.
 

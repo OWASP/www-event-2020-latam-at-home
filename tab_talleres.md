@@ -39,7 +39,7 @@ tags: LatamTour2020
     <td>Por definir</td>
     <td>Por definir</td>
     <td>Por definir</td>
-    <td></td>
+    <td>Por definir</td>
     <td>Por definir<br></td>
   </tr>
   <tr>

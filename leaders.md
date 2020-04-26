@@ -1,4 +1,4 @@
-### Colaboradores
+### Coordinadores
 <!--
 * [Diego Gonzalez](mailto:diego.gonzalez.arango@owasp.org)
 * [John Vargas](mailto:john.vargas@owasp.org)
