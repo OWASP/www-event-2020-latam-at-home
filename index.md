@@ -1,12 +1,14 @@
 ---
 
-<!--layout: col-sidebar-->
+layout: col-sidebar
 title: OWASP LATAM at Home 2020
 tags: LatamTour
-level: 0
----
+type: documentation
+level: 4
+auto-migrated: 0
+pitch: El OWASP LATAM@Home 2020, es una gira que se realiza a través de los Capítulos de OWASP en Latinoamérica para promover la seguridad WEB y llevar filosofía OWASP a todos los sectores de la sociedad.
 
-<!--{: style="text-align: justify" }-->
+---
 
 El OWASP LATAM@Home 2020, es una gira que se realiza a través de los Capítulos de OWASP en Latinoamérica para promover la seguridad WEB y llevar filosofía OWASP a todos los sectores de la sociedad.
 
