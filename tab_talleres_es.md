@@ -30,7 +30,7 @@ tags: LatamTour2020
   </tr>
     <tr>
     <td>16:00-18:00</td>
-    <td>Por definir</td>
+    <td><b>José Moreno</b>:<br>OSINT Ofensivo</td>
     <td><b>Christian Javier</b>:<br>Posicionamiento Absoluto y Temporal de Dispositivos Móviles</td>
     <td><b>Roberto Rubio</b>:<br>Manejo de las IP’s Públicas. Es un "Single Point Of Entry"</td>
     <td><b>Giovanni Cruz</b>:<br>Análisis de Artefactos en Windows</td>
