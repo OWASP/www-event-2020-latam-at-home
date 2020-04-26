@@ -36,20 +36,4 @@ tags: LatamTour2020
     <td><b>Giovanni Cruz</b>:<br>Análisis de Artefactos en Windows</td>
     <td><b>Mauricio Urizar</b>:<br>Análisis Forense a Windows</td>
   </tr>
-    <tr>
-    <td>18:00-20:00</td>
-    <td>Por definir</td>
-    <td>Por definir</td>
-    <td>Por definir</td>
-    <td>Por definir</td>
-    <td>Por definir</td>
-  </tr>
-  <tr>
-    <td>20:00-22:00</td>
-    <td>Por definir</td>
-    <td>Por definir</td>
-    <td>Por definir</td>
-    <td>Por definir</td>
-    <td>Por definir</td>
-  </tr>
  </table>
