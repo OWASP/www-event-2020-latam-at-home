@@ -9,9 +9,11 @@ tags: LatamTour2020
 
 ---
 
+## Talleres del 4 al 8 de Mayo de 2020 (Horario GMT-5)
+
 <table width="100%" border="1">
   <tr>
-    <th width="10%">Horario</th>
+    <th width="10%">Horas</th>
     <th width="18%">Lunes 4</th>
     <th width="18%">Martes 5</th>
     <th width="18%">Miércoles 6</th>
@@ -20,19 +22,19 @@ tags: LatamTour2020
   </tr>
   <tr>
     <td>14:00-16:00</td>
-    <td>Emiliano Piscitelli:<br>Introducción a OSINT e Ingeniería Social</td>
-    <td>Carlos Isaac Isaac Sagrero:<br>Haciendo una Aplicación Java Zombi</td>
-    <td>Ricardo Supo Picón:<br>SQL Injection para todos</td>
-    <td>Gustavo Nieves Arreaza:<br>Taller de Desarrollo Seguro con SAST y Threat Modeling Automatizado</td>
-    <td>Cris Lima:<br>Docker, un laboratorio de pentesting</td>
+    <td><b>Emiliano Piscitelli</b>:<br>Introducción a OSINT e Ingeniería Social</td>
+    <td><b>Carlos Isaac:<br>Haciendo una Aplicación Java Zombi</td>
+    <td><b>Ricardo Supo</b>:<br>SQL Injection para todos</td>
+    <td><b>Gustavo Nieves</b>:<br>Taller de Desarrollo Seguro con SAST y Threat Modeling Automatizado</td>
+    <td><b>Cris Lima</b>:<br>Docker, un laboratorio de pentesting</td>
   </tr>
     <tr>
     <td>16:00-18:00</td>
     <td>Por definir</td>
-    <td>Christian Javier Vila:<br>Posicionamiento Absoluto y Temporal de Dispositivos Móviles</td>
-    <td>Roberto Rubio:<br>Manejo de las IP’s Públicas. Es un "Single Point Of Entry"</td>
-    <td>Giovanni Cruz Forero:<br>Análisis de Artefactos en Windows</td>
-    <td>Mauricio Urizar:<br>Análisis Forense a Windows</td>
+    <td><b>Christian Javier</b>:<br>Posicionamiento Absoluto y Temporal de Dispositivos Móviles</td>
+    <td><b>Roberto Rubio</b>:<br>Manejo de las IP’s Públicas. Es un "Single Point Of Entry"</td>
+    <td><b>Giovanni Cruz</b>:<br>Análisis de Artefactos en Windows</td>
+    <td><b>Mauricio Urizar</b>:<br>Análisis Forense a Windows</td>
   </tr>
     <tr>
     <td>18:00-20:00</td>
