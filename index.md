@@ -1,6 +1,7 @@
 ---
+
 layout: col-sidebar
-title: OWASP LATAM@home 2020
+title: OWASP LATAM at Home 2020
 tags: LatamTour
 level: 0
 ---
@@ -19,7 +20,7 @@ El evento que proponemos, tiene como objetivo realizar una semana de talleres y 
 
 ## Fechas
 
-El evento se realizará desdse el 4 al 8 de mayo de 2020. Entra a los tabs correspondientes para ver detalles
+El evento se realizará desdse el 4 al 8 de mayo de 2020.
 
 ## Plataforma:
 
