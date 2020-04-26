@@ -5,8 +5,6 @@
 * [Slack](http://owasp.slack.com/#owasp-latam)
 
 ### HashTags
-* \#OwaspLatam
+
 * \#OwaspLatamTour
-* \#OwaspLatamAtHome20
-* \#QuedateEnCasa
-* \#OwaspPendemicEdition
+* \#OwaspLatamAtHome
