@@ -11,9 +11,9 @@ tags: LatamTour2020
 
 ## Talleres del 4 al 8 de Mayo de 2020 (Horario GMT-5)
 
-<table width="100%" border="1">
+<table width="100%" border="1" style="text-align:justify-all;">
   <tr>
-    <th width="10%">Horas</th>
+    <th width="10%" >Horas</th>
     <th width="18%">Lunes 4</th>
     <th width="18%">Martes 5</th>
     <th width="18%">Miércoles 6</th>
@@ -23,7 +23,7 @@ tags: LatamTour2020
   <tr>
     <td>14:00-16:00</td>
     <td><b>Emiliano Piscitelli</b>:<br>Introducción a OSINT e Ingeniería Social</td>
-    <td><b>Carlos Isaac:<br>Haciendo una Aplicación Java Zombi</td>
+    <td><b>Carlos Isaac</b>:<br>Haciendo una Aplicación Java Zombi</td>
     <td><b>Ricardo Supo</b>:<br>SQL Injection para todos</td>
     <td><b>Gustavo Nieves</b>:<br>Taller de Desarrollo Seguro con SAST y Threat Modeling Automatizado</td>
     <td><b>Cris Lima</b>:<br>Docker, un laboratorio de pentesting</td>
