@@ -12,7 +12,7 @@ tags: LatamTour2020
 <br>
 ## Palestras de 4 a 8 de maio de 2020 (horário GMT-5)
 <br>
-<table width="100%" border="1" style="text-align:justify;">
+<table width="100%" border="1" style="text-align:center;">
   <tr>
     <th width="10%">Hora</th>
     <th width="18%">Segunda-feira</th>
