@@ -12,7 +12,7 @@ tags: LatamTour2020
 <br>
 ## Conferencias del 4 al 8 de Mayo de 2020 (Horario GMT-5)
 <br>
-<table width="100%" border="1" style="text-align:center;">
+<table width="100%" border="1"  style="text-align:center;">
   <tr>
     <th width="10%">Horas</th>
     <th width="18%">Lunes 4</th>
@@ -43,7 +43,7 @@ tags: LatamTour2020
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td>Por definir</td>
+    <td><b>Milagros del Valle Martín Durán</b>:<br>Purple Team</td>
   </tr>
   <tr>
     <td>12:00-12:40</td>
@@ -62,12 +62,12 @@ tags: LatamTour2020
     <td>Por definir</td>
   </tr>
   <tr>
-    <td>13:20-14:00</td>
+    <td>13:20-14:10</td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td>Por definir</td>
+    <td><b>German Schmidt</b>:<br>Principios del desarrollo seguro</td>
   </tr>
   <tr>
     <td>16:00-16:40</td>
@@ -103,7 +103,7 @@ tags: LatamTour2020
   </tr>
 <tr>
     <td>18:40-19:20</td>
-    <td>Por definir</td>
+    <td><b>Victor Gutiérrez</b>:<br>Reversing</td>
     <td><b>Luis Pazmiño</b>:<br>Escalada de privilegios y movimientos laterales en ambientes windows y Linux</td>
     <td><b>Raúl Aguilar</b>:<br>por definir</td>
     <td><b>Fernando Vela</b>:<br>SOC y Threat Intelligence</td>
