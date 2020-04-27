@@ -59,7 +59,7 @@ tags: LatamTour2020
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td>Por definir</td>
+     <td><b>Paola Perez</b>:<br>Violencia de género digital,comunicaciones seguras</td>
   </tr>
   <tr>
     <td>13:20-14:00</td>
