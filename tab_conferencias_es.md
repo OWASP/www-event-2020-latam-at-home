@@ -35,7 +35,7 @@ tags: LatamTour2020
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td><b>Mikel Rufian</b>:<br>La ciberinteligencia complemento indispensable para las organizaciones</td>
+    <td><b>Mikel Rufian</b>:<br>Ciberinteligencia complemento indispensable para las organizaciones</td>
   </tr>
     <tr>
     <td>11:20-12:00</td>
@@ -43,7 +43,7 @@ tags: LatamTour2020
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td>Por definir</td>
+    <td><b>Milagros del Valle, Martín Durán</b>:<br>Purple Team</td>
   </tr>
   <tr>
     <td>12:00-12:40</td>
@@ -51,7 +51,7 @@ tags: LatamTour2020
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td><b>Lorenzo Martinez</b>:<br>Tema por definir</td>
+    <td>break</td>
   </tr>
   <tr>
     <td>12:40-13:20</td>
@@ -59,7 +59,7 @@ tags: LatamTour2020
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td>Por definir</td>
+    <td><b>Lorenzo Martinez</b>:<br>Tema por definir</td>
   </tr>
   <tr>
     <td>13:20-14:00</td>
@@ -67,7 +67,7 @@ tags: LatamTour2020
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td>Por definir</td>
+    <td><b>Paola Perez</b>:<br>Violencia de género digital,comunicaciones seguras</td>
   </tr>
   <tr>
     <td>16:00-16:40</td>
