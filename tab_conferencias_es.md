@@ -82,7 +82,7 @@ tags: LatamTour2020
     <td><b>Adam Shostack</b>:<br>Threat Modeling Lessons from Star Wars</td>
     <td><b>Alonso Caballero</b>:<br>Análisis Forense a Sistemas Windows</td>
     <td><b>Saira Isaac</b>:<br>Auditoría y Seguridad en las Apps</td>
-    <td><b>Ramiro Pulgar</b>:<br>Red Team, El Cyber Team Auditor</td>
+    <td><b>German Schmidt</b>:<br>Principios del Desarrollo Seguro</td>
     <td><b>Juampa Rodríguez</b>:<br>Recolección de Información en infraestructuras internas</td>
   </tr>
 <tr>
@@ -90,28 +90,28 @@ tags: LatamTour2020
     <td><b>Gustavo Nieves</b>:<br>Threat Modeling Automatizado</td>
     <td><b>John Copete</b>:<br>por definir</td>
     <td><b>Anabel Broce</b>:<br>Implementando en Producción un Sistema con una Arquitectura Segura</td>
-    <td><b>Edgard Salazar</b>:<br>Los controles de seguridad más importantes para arquitectos y desarrolladores</td>
+    <td><b>Edgard Salazar</b>:<br>Controles de seguridad más importantes para arquitectos y desarrolladores</td>
     <td><b>Everth Gallegos</b>:<br>Preparando un ambiente de pruebas para apps con Xamarin</td>
   </tr>
 <tr>
     <td>18:00-18:40</td>
-    <td><b>Elvin Mollinedo</b>:<br>por definir</td>
-    <td><b>Darwin Algarin</b>:<br>por definir</td>
-    <td><b>Fernando Vela</b>:<br>Análisis de Malware con Docker</td>
+    <td><b>Elvin Mollinedo</b>:<br>¿Cómo proteger aplicaciones web aunque sean Vulnerables?</td>
+    <td><b>Darwin Algarin</b>:<br>Hacking RFID con proxmark 3</td>
+    <td><b>Eduardo Jana</b>:<br>Webshell webapp</td>
     <td><b>Sandy Palma</b>:<br>La Gobernanza de la Información</td>
     <td><b>Juan Quiñe</b>:<br>Cómo generar valor a través del informe de Ethical hacking</td>
   </tr>
 <tr>
     <td>18:40-19:20</td>
-    <td>Por definir</td>
+    <td><b>Victor Herrera</b>:<br>Reversing</td>
     <td><b>Luis Pazmiño</b>:<br>Escalada de privilegios y movimientos laterales en ambientes windows y Linux</td>
-    <td><b>Raúl Aguilar</b>:<br>por definir</td>
+    <td><b>Raúl Aguilar</b>:<br>Security Knowledge Framework</td>
     <td><b>Fernando Vela</b>:<br>SOC y Threat Intelligence</td>
     <td><b>Ramiro Pulgar</b>:<br>Plataformas Open Source para Simulación de Ataques</td>
   </tr>
 <tr>
     <td>19:20-20:00</td>
-    <td><b>Gabriel Llumiquinga</b>:<br>Desarrollo de las Cyber Comunidades en la Región</td>
+    <td><b>Gabriel Llumiquinga</b>:<br>Desarrollo de las Cibercomunidades en la Región</td>
     <td><b>Josué Rojas</b>:<br>From window to System, developing an exploit</td>
     <td><b>Armando Rodas</b>:<br>OSINT, Técnicas de Reconocimiento en un Test de Intrusión</td>
     <td><b>Eduardo Snape</b>:<br>Gestión de seguridad con ISM3, la alternativa luego de un Pentest</td>
@@ -119,26 +119,26 @@ tags: LatamTour2020
   </tr>
 <tr>
     <td>20:00-20:40</td>
-    <td><b>Eduardo Casanovas, Carlos Tapia</b>:<br>Por definir</td>
+    <td><b>Eduardo Casanovas, Carlos Tapia</b>:<br>Bug Bounty, un enfoque diferente</td>
     <td><b>Salvador Mendoza</b>:<br>NFC Copy Cat, Open source to test payment systems</td>
-    <td><b>Pablo Rico</b>:<br>Introducción a TheHive como plataforma de respuesta a incidentes</td>
+    <td><b>Pablo Rico</b>:<br>TheHive como plataforma de respuesta a incidentes</td>
     <td><b>Rafael Monterroza</b>:<br>Machine Learning aplicado a la Ciberseguridad</td>
     <td><b>Amilcar de León</b>:<br>Ingeniería social, el arte o la ciencia del hackeo de personas?</td>
   </tr>
 <tr>
     <td>20:40-21:20</td>
-    <td>Por definir</td>
-    <td><b>Hector Aguirre</b>:<br>por definir</td>
+    <td><b>Jonathan Correa</b>:<br>por definir</td>
+    <td><b>Hector Aguirre</b>:<br>Ethical Hacking Defensivo</td>
     <td><b>Michael Hidalgo</b>:<br>MITRE ATT&CK, conociendo al adversario</td>
     <td><b>Hubert de Mercado</b>:<br>Seguridad REST API, Lo bueno, lo malo y lo feo</td>
     <td><b>Elezer Pineda</b>:<br>Threat Hunting sin colores</td>
   </tr>
 <tr>
     <td>21:20-22:00</td>
-    <td>Por definir</td>
-    <td><b>Victor Vera</b>:<br>por definir</td>
+    <td><b>Nicolas Valcarcel</b>:<br>Secure Web Development Training for Agile Teams</td>
+    <td><b>Victor Vera</b>:<br>Pentensting Web, El Arte que va más allá de las Herramientas</td>
     <td><b>Roberto Mendoza</b>:<br>Conociendo y Analizando la Dark Web</td>
-    <td><b>Ricardo Supo Picón</b>:<br>Hacking en tiempos de COVID-19, Transformación Digital sin Controles</td>
+    <td><b>Ricardo Supo</b>:<br>Hacking en tiempos de COVID-19, Transformación Digital sin Controles</td>
     <td><b>Gonzalo Nina</b>:<br>Técnicas efectivas de Ingeniería Social a través de redes sociales</td>
   </tr>
 </table>
