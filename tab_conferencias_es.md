@@ -103,7 +103,7 @@ tags: LatamTour2020
   </tr>
 <tr>
     <td>18:40-19:20</td>
-    <td><b>Victor Herrera</b>:<br>Reversing</td>
+    <td><b>Victor Gutierrez</b>:<br>Reversing</td>
     <td><b>Luis Pazmiño</b>:<br>Escalada de privilegios y movimientos laterales en ambientes windows y Linux</td>
     <td><b>Raúl Aguilar</b>:<br>Security Knowledge Framework</td>
     <td><b>Fernando Vela</b>:<br>SOC y Threat Intelligence</td>

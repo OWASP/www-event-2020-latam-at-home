@@ -43,14 +43,14 @@ tags: LatamTour2020
     <td>Por confirmar</td>
     <td>Por confirmar</td>
     <td>Por confirmar</td>
-    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+    <td><b>Eduardo Müller</b>:<br>Abusando de conversores HTML para PDF</td>
   </tr>
 <tr>
     <td>18:00-18:40</td>
     <td>Por confirmar</td>
     <td>Por confirmar</td>
     <td>Por confirmar</td>
-    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+    <td><b>Luiz Vieira</b>:<br>DevOps to DevSecOps, Becoming a Living Jedi</td>
     <td>Por confirmar</td>
   </tr>
 <tr>
