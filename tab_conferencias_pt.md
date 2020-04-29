@@ -60,33 +60,33 @@ tags: LatamTour2020
 <tr>
     <td>19:20-20:00</td>
     <td>Por confirmar</td>
-    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
-    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
-    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
-    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+    <td><b>Raphael Hagi</b>:<br>Top 10 API</td>
+    <td><b>Kembolle Amilkar</b>:<br>Defesa Cibernética em Estruturas Corporativas</td>
+    <td><b>Carlo Revoredo</b>:<br>Técnicas para detecção de fraudes</td>
+    <td><b>Luis Araujo</b>:<br>Desenvolvimento Seguro além das ferramentas</td>
   </tr>
 <tr>
     <td>20:00-20:40</td>
     <td>Por confirmar</td>
-    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
-    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
-    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+    <td><b>Alcyon Junior</b>:<br>Defensive Coding</td>
+    <td><b>Ulysses Monteiro</b>:<br>Ransomware: Comportamentos e como se proteger</td>
+    <td><b>Eduardo Santos</b>:<br>Obtendo e analisando uma evidência digital</td>
     <td>Por confirmar</td>
   </tr>
 <tr>
     <td>20:40-21:20</td>
     <td>Por confirmar</td>
-    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
-    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
-    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
-    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+    <td><b>Matheus Oliveira</b>:<br>OSINT,  Amolando o machado para um pentest decisivo</td>
+    <td><b>Glauco Sampaio</b>:<br>Open Banking, ¿e a segurança?</td>
+    <td><b>Fernando Galves</b>:<br>Protegendo Aplicações Web com OWASP ModSecurity Core Rule Set</td>
+    <td><b>Carlos Eduardo</b>:<br>Por definir/td>
   </tr>
 <tr>
     <td>21:20-22:00</td>
     <td>Por confirmar</td>
-    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
-    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
-    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
-    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+    <td><b>Julio Lira</b>:<br>OSINT, de stalker à bruteforcer</td>
+    <td><b>Ubirajara Aguiar</b>:<br>Python para pentesting, construindo suas próprias ferramentas</td>
+    <td><b>Jance Luiz</b>:<br>Risco Próximo, próximo risco, Segurança em Endpoint</td>
+    <td><b>Alessandro de Oliveira Faria</b>:<br>OWASP Top Ten Mobile</td>
   </tr>
 </table>
