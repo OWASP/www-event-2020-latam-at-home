@@ -10,7 +10,7 @@ tags: LatamTour2020
 ---
 
 <br>
-## Palestras de 4 a 8 de maio de 2020 (horário GMT-5)
+## Palestras de 4 a 8 de maio de 2020 (horário GMT-3)
 <br>
 <table width="100%" border="1" style="text-align:center;">
   <tr>
@@ -22,51 +22,71 @@ tags: LatamTour2020
     <th width="18%">Sexta-Feira</th>
   </tr>
   <tr>
-    <td>10:00-10:40</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>16:00-16:40</td>
+    <td>Por confirmar</td>
+    <td>Por confirmar</td>
+    <td>Por confirmar</td>
+    <td><b>Fábio Costa Isaque Lopes</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+    <td>Por confirmar</td>
   </tr>
-    <tr>
-    <td>10:40-11:20</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+<tr>
+    <td>16:40-17:20</td>
+    <td>Por confirmar</td>
+    <td><b>Alessandra Martins:</b>:<br>Jornada Security by Design</td>
+    <td>Por confirmar</td>
+    <td>Por confirmar</td>
+    <td><b>Ricardo Supo</b>:<br>Hacking nos dias de COVID-19, Transformação digital sem controles</td>
   </tr>
-    <tr>
-    <td>11:20-12:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+<tr>
+    <td>17:20-18:00</td>
+    <td>Por confirmar</td>
+    <td>Por confirmar</td>
+    <td>Por confirmar</td>
+    <td>Por confirmar</td>
+    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
   </tr>
-  <tr>
-    <td>12:00-12:40</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+<tr>
+    <td>18:00-18:40</td>
+    <td>Por confirmar</td>
+    <td>Por confirmar</td>
+    <td>Por confirmar</td>
+    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+    <td>Por confirmar</td>
   </tr>
-  <tr>
-    <td>12:40-13:20</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+<tr>
+    <td>18:40-19:20</td>
+    <td colspan="5">BREAK</td>
   </tr>
-  <tr>
-    <td>13:20-14:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+<tr>
+    <td>19:20-20:00</td>
+    <td>Por confirmar</td>
+    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+  </tr>
+<tr>
+    <td>20:00-20:40</td>
+    <td>Por confirmar</td>
+    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+    <td>Por confirmar</td>
+  </tr>
+<tr>
+    <td>20:40-21:20</td>
+    <td>Por confirmar</td>
+    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+  </tr>
+<tr>
+    <td>21:20-22:00</td>
+    <td>Por confirmar</td>
+    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+    <td><b>Fábio Costa Isaque Lopes:</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
   </tr>
 </table>

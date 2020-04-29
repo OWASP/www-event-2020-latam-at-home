@@ -88,7 +88,7 @@ tags: LatamTour2020
 <tr>
     <td>17:20-18:00</td>
     <td><b>Gustavo Nieves</b>:<br>Threat Modeling Automatizado</td>
-    <td><b>John Copete</b>:<br>por definir</td>
+    <td><b>Jonathan Correa</b>:<br>Exploiting</td>
     <td><b>Anabel Broce</b>:<br>Implementando en Producción un Sistema con una Arquitectura Segura</td>
     <td><b>Edgard Salazar</b>:<br>Controles de seguridad más importantes para arquitectos y desarrolladores</td>
     <td><b>Everth Gallegos</b>:<br>Preparando un ambiente de pruebas para apps con Xamarin</td>
@@ -107,7 +107,7 @@ tags: LatamTour2020
     <td><b>Luis Pazmiño</b>:<br>Escalada de privilegios y movimientos laterales en ambientes windows y Linux</td>
     <td><b>Raúl Aguilar</b>:<br>Security Knowledge Framework</td>
     <td><b>Fernando Vela</b>:<br>SOC y Threat Intelligence</td>
-    <td><b>Ramiro Pulgar</b>:<br>Plataformas Open Source para Simulación de Ataques</td>
+    <td><b>Ramiro Pulgar</b>:<br>Cyber Red Team, el equipo auditor de controles de seguridad</td>
   </tr>
 <tr>
     <td>19:20-20:00</td>
