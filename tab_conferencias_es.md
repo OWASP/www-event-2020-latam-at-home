@@ -74,7 +74,7 @@ tags: LatamTour2020
     <td><b>Diego Ademir</b>:<br>OWASP ASVS, Guía de seguridad para aplicaciones web por excelencia</td>
     <td><b>Dahum Deavila</b>:<br>Seguridad Informática desde las Perspectiva del usuario Final</td>
     <td><b>Mateo Martínez</b>:<br>Implementando OWASP SAMM en Latinoamerica</td>
-    <td><b>Alejandro Lacobelli, Pablo Garbossa</b>:<br>Bug Bounty, One year later</td>
+    <td><b>Alejandro Iacobelli, Pablo Garbossa</b>:<br>Bug Bounty, One year later</td>
     <td><b>Jaime Restrepo</b>:<br>Lo que nadie te dijo antes de dedicarte al Bug bounty</td>
   </tr>
 <tr>
