@@ -64,7 +64,7 @@ tags: LatamTour2020
     <td><b>Alcyon Junior</b>:<br>Defensive Coding</td>
     <td><b>Ulysses Monteiro</b>:<br>Ransomware: Comportamentos e como se proteger</td>
     <td><b>Eduardo Santos</b>:<br>Obtendo e analisando uma evidência digital</td>
-    <td>Por confirmar</td>
+    <td><b>Vitor Fernandes</b>:<br>Explorando o Top 10 OWASP</td>
   </tr>
 <tr>
     <td>20:40-21:20</td>
