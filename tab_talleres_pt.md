@@ -18,6 +18,7 @@ tags: LatamTour2020
     <th width="40%">Viernes 8</th>
   </tr>
   <tr>
+    <td>14:00-16:00</td>
     <td><b>Raphael Hagi</b>:<br>OWASP TOP 10 e LGPD</td>
     <td><b>Ricardo Supo</b>:<br>SQL Injection para todos</td>
   </tr>
