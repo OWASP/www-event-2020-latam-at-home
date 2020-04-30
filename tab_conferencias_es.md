@@ -72,7 +72,7 @@ tags: LatamTour2020
   <tr>
     <td>16:00-16:40</td>
     <td><b>Diego Ademir</b>:<br>OWASP ASVS, Guía de seguridad para aplicaciones web por excelencia</td>
-    <td><b>Dahum Deavila</b>:<br>Seguridad Informática desde las Perspectiva del usuario Final</td>
+    <td><b>Nahum Deavila</b>:<br>Seguridad Informática desde las Perspectiva del usuario Final</td>
     <td><b>Mateo Martínez</b>:<br>Implementando OWASP SAMM en Latinoamerica</td>
     <td><b>Alejandro Iacobelli, Pablo Garbossa</b>:<br>Bug Bounty, One year later</td>
     <td><b>Jaime Restrepo</b>:<br>Lo que nadie te dijo antes de dedicarte al Bug bounty</td>
@@ -88,7 +88,7 @@ tags: LatamTour2020
 <tr>
     <td>17:20-18:00</td>
     <td><b>Gustavo Nieves</b>:<br>Threat Modeling Automatizado</td>
-    <td><b>Jonathan Correa</b>:<br>Exploiting</td>
+    <td><b>John Copete</b>:<br>Cambiando el chip en el desarrollo de software</td>
     <td><b>Anabel Broce</b>:<br>Implementando en Producción un Sistema con una Arquitectura Segura</td>
     <td><b>Edgard Salazar</b>:<br>Controles de seguridad más importantes para arquitectos y desarrolladores</td>
     <td><b>Everth Gallegos</b>:<br>Preparando un ambiente de pruebas para apps con Xamarin</td>
