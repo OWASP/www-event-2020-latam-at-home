@@ -25,9 +25,9 @@ Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-10355138297
   <tr>
     <td>16:00-16:40</td>
     <td>Por confirmar</td>
-    <td>Por confirmar</td>
+    <td><b>Daniel Carlier</b>:<br>SecDevLabs Mobile, a laboratory for learning secure web/mobile development in a practical manner</td>
     <td><b>Fábio Costa Isaque Lopes</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
-    <td>Por confirmar</td>
+    <td><b>Wagner Morais</b>:<br>Análise de Redes Sociais com OSINT</td>
   </tr>
 <tr>
     <td>16:40-17:20</td>

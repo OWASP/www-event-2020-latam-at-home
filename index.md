@@ -40,5 +40,5 @@ Los talleres van a utilizar la plataforma Google Class. Esta plataforma es gratu
 
 ### Capítulos Participantes
 
-Damos las gracias a todos los [capítulos latinoamericanos](/chapters/#SouthAmerica) que han participado en las charlas y talleres de este evento, donde te invitamos que te unas a cada capítulo de tu ciudad y país.
+Damos las gracias a todos los [capítulos latinoamericanos](http://www.owasp.org/chapters/#SouthAmerica) que han participado en las charlas y talleres de este evento, donde te invitamos que te unas a cada capítulo de tu ciudad y país.
 
