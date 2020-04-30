@@ -20,21 +20,25 @@ En esta gira, participan Universidades, Institutos Académicos, Empresas del Sec
 
 Este año, por la situación que está padeciendo el mundo por la pandemia del Covid-19, se ha cancelado la participación del OWASP LATAM TOUR 2020 de manera presencial y ha dado pie para proponer realizar un evento con las mismas características pero de manera Virtual y con organización local de cada capítulo de OWASP.
 
-## Objetivo del evento:
+## Registro del evento
+
+Para registrarte en las conferencias y talleres visita cada uno de los tabs superiores, y obtendrás información sobre los mismos.
+
+### Objetivo del evento:
 
 El evento que proponemos, tiene como objetivo realizar una semana de talleres y presentaciones simultáneos de manera virtual sobre temas relacionados a la seguridad informática.
 
-## Fechas
+### Fechas
 
 El evento se realizará desdse el 4 al 8 de mayo de 2020. Mantente informado también en nuestras redes sociales.
 
-## Plataforma:
+### Plataforma:
+
+Las conferencias, se utilizará la plataforma Youtube de streaming. No tendrán límites de cupos pero sí contará con registro de participantes. Visita cada uno de los tabs para registrarte.
 
 Los talleres van a utilizar la plataforma Google Class. Esta plataforma es gratuita y tendrán un límite de cupos para los cursos que cuenten con preguntas y respuestas. Para los cursos que no tengan esta limitante, no tendrán límites de cupos.
 
-Para las conferencias, se utilizará la plataforma Youtube de streaming. No tendrán límites de cupos pero sí contará con registro de participantes.
-
-## Capítulos Participantes
+### Capítulos Participantes
 
 Damos las gracias a todos los [capítulos latinoamericanos](/chapters/#SouthAmerica) que han participado en las charlas y talleres de este evento, donde te invitamos que te unas a cada capítulo de tu ciudad y país.
 
