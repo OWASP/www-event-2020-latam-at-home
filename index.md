@@ -20,7 +20,7 @@ En esta gira, participan Universidades, Institutos Académicos, Empresas del Sec
 
 Este año, por la situación que está padeciendo el mundo por la pandemia del Covid-19, se ha cancelado la participación del OWASP LATAM TOUR 2020 de manera presencial y ha dado pie para proponer realizar un evento con las mismas características pero de manera Virtual y con organización local de cada capítulo de OWASP.
 
-## Registro del evento
+## <p style="color:red">Registro del evento</p>
 
 Para registrarte en las conferencias y talleres visita cada uno de los tabs superiores, y obtendrás información sobre los mismos.
 
