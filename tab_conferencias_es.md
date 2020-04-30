@@ -51,7 +51,7 @@ tags: LatamTour2020
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td>break</td>
+    <td><b>Fabio Cerullo</b>:<br>Por confirmar</td>
   </tr>
   <tr>
     <td>12:40-13:20</td>
