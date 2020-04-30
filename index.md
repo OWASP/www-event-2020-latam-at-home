@@ -19,8 +19,8 @@ El OWASP LATAM@Home 2020, es una gira que se realiza a través de los Capítulos
 En esta gira, participan Universidades, Institutos Académicos, Empresas del Sector de IT y de OT, Instituciones Gubernamentales, empresas financieras, entre otros. El objetivo principal es crear conciencia sobre la seguridad informática y promover las directrices de OWASP junto con las técnicas más recientes de Hacking para mitigar sus efectos en los entornos digitales. Durante este evento, se realizan talleres y presentaciones para que los participantes puedan aprender y comprender,lo que están realizando sus pares referente a seguridad informática ofensiva y defensiva en otros países.
 
 Este año, por la situación que está padeciendo el mundo por la pandemia del Covid-19, se ha cancelado la participación del OWASP LATAM TOUR 2020 de manera presencial y ha dado pie para proponer realizar un evento con las mismas características pero de manera Virtual y con organización local de cada capítulo de OWASP.
-<p style="color:red">
-## Registro del evento
+<p style="color:red" style="font-size:25px">
+Registro del evento
 </p>
 Para registrarte en las conferencias y talleres visita cada uno de los tabs superiores, y obtendrás información sobre los mismos.
 
