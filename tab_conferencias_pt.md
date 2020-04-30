@@ -71,7 +71,7 @@ tags: LatamTour2020
     <td><b>Matheus Oliveira</b>:<br>OSINT,  Amolando o machado para um pentest decisivo</td>
     <td><b>Glauco Sampaio</b>:<br>Open Banking, ¿e a segurança?</td>
     <td><b>Fernando Galves</b>:<br>Protegendo Aplicações Web com OWASP ModSecurity Core Rule Set</td>
-    <td><b>Carlos Eduardo</b>:<br>Fazendo 35k em bug bounty com OSINT</td>
+    <td><b>Carlos Santiago</b>:<br>Fazendo 35k em bug bounty com OSINT</td>
   </tr>
 <tr>
     <td>21:20-22:00</td>
