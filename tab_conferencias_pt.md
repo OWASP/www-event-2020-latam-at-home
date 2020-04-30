@@ -14,11 +14,11 @@ tags: LatamTour2020
 <br>
 <table width="100%" border="1" style="text-align:center;">
   <tr>
-    <th width="10%">Hora</th>
-    <th width="18%">Terça-Feira</th>
-    <th width="18%">Quarta-Feira</th>
-    <th width="18%">Quinta-Feira</th>
-    <th width="18%">Sexta-Feira</th>
+    <th width="12%">Hora</th>
+    <th width="22%">Terça-Feira</th>
+    <th width="22%">Quarta-Feira</th>
+    <th width="22%">Quinta-Feira</th>
+    <th width="22%">Sexta-Feira</th>
   </tr>
   <tr>
     <td>16:00-16:40</td>
