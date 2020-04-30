@@ -15,7 +15,6 @@ tags: LatamTour2020
 <table width="100%" border="1" style="text-align:center;">
   <tr>
     <th width="10%">Hora</th>
-    <th width="18%">Segunda-feira</th>
     <th width="18%">Terça-Feira</th>
     <th width="18%">Quarta-Feira</th>
     <th width="18%">Quinta-Feira</th>
@@ -25,13 +24,11 @@ tags: LatamTour2020
     <td>16:00-16:40</td>
     <td>Por confirmar</td>
     <td>Por confirmar</td>
-    <td>Por confirmar</td>
     <td><b>Fábio Costa Isaque Lopes</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
     <td>Por confirmar</td>
   </tr>
 <tr>
     <td>16:40-17:20</td>
-    <td>Por confirmar</td>
     <td><b>Alessandra Martins:</b>:<br>Jornada Security by Design</td>
     <td>Por confirmar</td>
     <td>Por confirmar</td>
@@ -42,12 +39,10 @@ tags: LatamTour2020
     <td>Por confirmar</td>
     <td>Por confirmar</td>
     <td>Por confirmar</td>
-    <td>Por confirmar</td>
     <td><b>Eduardo Müller</b>:<br>Abusando de conversores HTML para PDF</td>
   </tr>
 <tr>
     <td>18:00-18:40</td>
-    <td>Por confirmar</td>
     <td>Por confirmar</td>
     <td>Por confirmar</td>
     <td><b>Luiz Vieira</b>:<br>DevOps to DevSecOps, Becoming a Living Jedi</td>
@@ -55,11 +50,10 @@ tags: LatamTour2020
   </tr>
 <tr>
     <td>18:40-19:20</td>
-    <td colspan="5">BREAK</td>
+    <td colspan="4">BREAK</td>
   </tr>
 <tr>
     <td>19:20-20:00</td>
-    <td>Por confirmar</td>
     <td><b>Raphael Hagi</b>:<br>Top 10 API</td>
     <td><b>Kembolle Amilkar</b>:<br>Defesa Cibernética em Estruturas Corporativas</td>
     <td><b>Carlo Revoredo</b>:<br>Técnicas para detecção de fraudes</td>
@@ -67,7 +61,6 @@ tags: LatamTour2020
   </tr>
 <tr>
     <td>20:00-20:40</td>
-    <td>Por confirmar</td>
     <td><b>Alcyon Junior</b>:<br>Defensive Coding</td>
     <td><b>Ulysses Monteiro</b>:<br>Ransomware: Comportamentos e como se proteger</td>
     <td><b>Eduardo Santos</b>:<br>Obtendo e analisando uma evidência digital</td>
@@ -75,7 +68,6 @@ tags: LatamTour2020
   </tr>
 <tr>
     <td>20:40-21:20</td>
-    <td>Por confirmar</td>
     <td><b>Matheus Oliveira</b>:<br>OSINT,  Amolando o machado para um pentest decisivo</td>
     <td><b>Glauco Sampaio</b>:<br>Open Banking, ¿e a segurança?</td>
     <td><b>Fernando Galves</b>:<br>Protegendo Aplicações Web com OWASP ModSecurity Core Rule Set</td>
@@ -83,7 +75,6 @@ tags: LatamTour2020
   </tr>
 <tr>
     <td>21:20-22:00</td>
-    <td>Por confirmar</td>
     <td><b>Julio Lira</b>:<br>OSINT, de stalker à bruteforcer</td>
     <td><b>Ubirajara Aguiar</b>:<br>Python para pentesting, construindo suas próprias ferramentas</td>
     <td><b>Jance Luiz</b>:<br>Risco Próximo, próximo risco, Segurança em Endpoint</td>

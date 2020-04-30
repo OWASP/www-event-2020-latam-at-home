@@ -51,7 +51,7 @@ tags: LatamTour2020
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td><b>Fabio Cerullo</b>:<br>Por confirmar</td>
+    <td><b>Fabio Cerullo</b>:<br>Por definir</td>
   </tr>
   <tr>
     <td>12:40-13:20</td>
@@ -59,7 +59,7 @@ tags: LatamTour2020
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td><b>Lorenzo Martinez</b>:<br>Tema por definir</td>
+    <td><b>Lorenzo Martinez</b>:<br>Por definir</td>
   </tr>
   <tr>
     <td>13:20-14:00</td>
