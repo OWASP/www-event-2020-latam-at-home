@@ -13,7 +13,12 @@ tags: LatamTour2020
   <img src="assets/images/LatamAtHome.jpg">
 </p>
 <br><br>
+
+## CTF #1: OWASP Latam@Home
+
 El CTF de OWASP LATAM, en esta versión LATAM@home 2020 es un juego que pondrá a prueba tus conocimientos en hacking y seguridad informática. Consiste en superar una serie de retos ordenados por categorías (web, cripto, exploiting, reversing, misc, etc) Al final de cada reto obtendrás un "flag" que debes usar para sumar puntos. Gana el participante con más puntos!
 
-## Codewarrior
+## CTF #2: Codewarrior
+
+El CTF de Codewarrior
 
