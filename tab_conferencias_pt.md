@@ -36,15 +36,15 @@ tags: LatamTour2020
   </tr>
 <tr>
     <td>17:20-18:00</td>
+    <td><b>Anchises Moraes</b>:<br>Bountying for Bugs</td>
     <td>Por confirmar</td>
-    <td>Por confirmar</td>
-    <td>Por confirmar</td>
+    <td><b>Alessandra Martins</b>:<br>OWASP Top 10 e como isso pode dar um up nas QA´s skills?</td>
     <td><b>Eduardo Müller</b>:<br>Abusando de conversores HTML para PDF</td>
   </tr>
 <tr>
     <td>18:00-18:40</td>
     <td>Por confirmar</td>
-    <td>Por confirmar</td>
+    <td><b>Zoziel Pinto Freire</b>:<br>Red Team x Blue Team</td>
     <td><b>Luiz Vieira</b>:<br>DevOps to DevSecOps, Becoming a Living Jedi</td>
     <td>Por confirmar</td>
   </tr>
