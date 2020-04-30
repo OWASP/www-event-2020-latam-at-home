@@ -9,7 +9,9 @@ tags: LatamTour2020
 
 ---
 
+<br>
 ## Workshop del 7 al 8 de Mayo de 2020 (Horario GMT-3)
+<br>
 
 <table width="100%" border="1" style="text-align:center;">
   <tr>
