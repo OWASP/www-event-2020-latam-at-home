@@ -22,8 +22,9 @@ Este año, por la situación que está padeciendo el mundo por la pandemia del C
 <p style="color:red" style="font-size:25px">
 Registro del evento
 </p>
+<p style="color:blue">
 Para registrarte en las conferencias y talleres visita cada uno de los tabs superiores, y obtendrás información sobre los mismos.
-
+</p>
 ### Objetivo del evento:
 
 El evento que proponemos, tiene como objetivo realizar una semana de talleres y presentaciones simultáneos de manera virtual sobre temas relacionados a la seguridad informática.
