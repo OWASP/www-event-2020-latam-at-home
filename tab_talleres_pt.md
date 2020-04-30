@@ -13,9 +13,9 @@ tags: LatamTour2020
 
 <table width="100%" border="1" style="text-align:center;">
   <tr>
-    <th width="20%" >Horas</th>
-    <th width="40%">Jueves 7</th>
-    <th width="40%">Viernes 8</th>
+    <th width="20%" >Hora</th>
+    <th width="40%">Quinta-Feira</th>
+    <th width="40%">Sexta-Feira</th>
   </tr>
   <tr>
     <td>14:00-16:00</td>
