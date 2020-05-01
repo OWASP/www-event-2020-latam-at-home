@@ -31,9 +31,9 @@ Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-10355138297
   </tr>
 <tr>
     <td>16:40-17:20</td>
-    <td><b>Alessandra Martins:</b>:<br>Jornada Security by Design</td>
+    <td><b>Alessandra Martins</b>:<br>Jornada Security by Design</td>
     <td>Por confirmar</td>
-    <td>Por confirmar</td>
+    <td><b>Leandro Inácioa</b>:<br>Automatizando o processo de reconhecimento</td>
     <td><b>Ricardo Supo</b>:<br>Hacking nos dias de COVID-19, Transformação digital sem controles</td>
   </tr>
 <tr>

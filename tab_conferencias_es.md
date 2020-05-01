@@ -129,7 +129,7 @@ Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-10355138297
   </tr>
 <tr>
     <td>20:40-21:20</td>
-    <td><b>Jonathan Correa</b>:<br>por definir</td>
+    <td><b>Gabriel Bergel, Rodrigo Quevedo</b>:<br>Biohacking The Disability</td>
     <td><b>Hector Aguirre</b>:<br>Ethical Hacking Defensivo</td>
     <td><b>Michael Hidalgo</b>:<br>MITRE ATT&CK, conociendo al adversario</td>
     <td><b>Hubert de Mercado</b>:<br>Seguridad REST API, Lo bueno, lo malo y lo feo</td>
