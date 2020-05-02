@@ -22,7 +22,8 @@ Este año, por la situación que está padeciendo el mundo por la pandemia del C
 
 ## Registro del evento
 
-<p style="color:blue">Para registrarte en las conferencias y talleres visita cada uno de los tabs superiores, y obtendrás información sobre los mismos.</p>
+Registrate a conferencias y talleres en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974](https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974)
+
 ### Objetivo del evento:
 
 El evento que proponemos, tiene como objetivo realizar una semana de talleres y presentaciones simultáneos de manera virtual sobre temas relacionados a la seguridad informática.

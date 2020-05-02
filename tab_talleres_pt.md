@@ -12,6 +12,8 @@ tags: LatamTour2020
 <br>
 ## Workshop del 7 al 8 de Mayo de 2020 (Horario GMT-3)
 <br>
+Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974](https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974)
+<br><br>
 
 <table width="100%" border="1" style="text-align:center;">
   <tr>
