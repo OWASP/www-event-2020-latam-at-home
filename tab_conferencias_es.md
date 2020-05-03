@@ -53,7 +53,7 @@ Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-10355138297
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td><b>Fabio Cerullo</b>:<br>Por definir</td>
+    <td><b>Fabio Cerullo</b>:<br>Trivias LATAM@home</td>
   </tr>
   <tr>
     <td>12:40-13:20</td>
