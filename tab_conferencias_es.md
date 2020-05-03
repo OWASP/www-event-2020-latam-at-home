@@ -69,7 +69,7 @@ Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-10355138297
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td><b>Paola Perez</b>:<br>Violencia de género digital,comunicaciones seguras</td>
+    <td><b>Paola Perez</b>:<br>Ciberseguridad en Pandemia</td>
   </tr>
   <tr>
     <td>16:00-16:40</td>

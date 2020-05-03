@@ -14,6 +14,12 @@ tags: LatamTour2020
 </p>
 <br><br>
 
+## CTF OWASP LATAM
+En esta versión LATAM@home 2020 es un juego que pondrá a prueba tus conocimientos en hacking y seguridad informática. Consiste en superar una serie de retos ordenados por categorías (web, cripto, exploiting, reversing, misc, etc) Al final de cada reto obtendrás un "flag" que debes usar para sumar puntos. Gana el participante con más puntos!
+
+<!--Registrate en: [xxxx](https://discover.securecodewarrior.com/OWASP-LATAM-torneo.html)-->
+
+
 ## CTF Secure Code Warrior
 
 ¡Mejore sus habilidades de programación segura! Participe en torneo de OWASP Latam@Home 2020 desde el 4 de mayo a las 2:00PM (GMT-5) hasta el 8 de mayo a las 4:30PM (GMT-5). 

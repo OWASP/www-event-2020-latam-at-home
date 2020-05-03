@@ -48,7 +48,7 @@ Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-10355138297
     <td>Por confirmar</td>
     <td><b>Zoziel Pinto Freire</b>:<br>Red Team x Blue Team</td>
     <td><b>Luiz Vieira</b>:<br>DevOps to DevSecOps, Becoming a Living Jedi</td>
-    <td>Por confirmar</td>
+    <td><b>Guilherme Alencar</b>:<br>Riding with Zero Trust</td>
   </tr>
 <tr>
     <td>18:40-19:20</td>
