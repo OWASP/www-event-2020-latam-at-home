@@ -25,10 +25,10 @@ Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-10355138297
   </tr>
   <tr>
     <td>10:00-10:40</td>
-    <td rowspan="6">-</td>
-    <td rowspan="6">-</td>
-    <td rowspan="6">-</td>
-    <td rowspan="6">-</td>
+    <td rowspan="6"></td>
+    <td rowspan="6"></td>
+    <td rowspan="6"></td>
+    <td rowspan="6"></td>
     <td><b>Daniel Echeverría</b>:<br>Hacking avanzado con ZAP Proxy</td>
   </tr>
     <tr>
