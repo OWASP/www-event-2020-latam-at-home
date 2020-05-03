@@ -8,186 +8,119 @@ order: 1
 tags: LatamTour2020
 
 ---
-<style>
-@media (max-width: 950px) {
-  .divTable {
-    width: 90vw;
-    overflow-x: scroll;
-  }
-  .conferenceTable {
-    left: 0;
-    right: 0;
-    margin: 0;
-    font-size: small;
-  }
-  .hourColumn {
-    min-width: 38px;
-    padding: 0;
-  }
-  .otherColumns {
-    min-width: 100px;
-    padding: 0;
-  }
-}
-@media (max-width: 1150px) {
-  .col-sidebar .main-wrapper {
-    display: grid;
-    grid-template-rows: auto;
-    grid-template-columns: 1fr;
-    grid-template-areas:
-        "title"
-        "github"
-        "menu"
-        "body"
-        "repo"
-        "side";
-  }
-}
-@media (min-width:950px) {
-  .hourColumn {
-    min-width: 81px;
-  }
-  .otherColumns {
-    min-width: 170px;
-    width:18%;
-  }
-}
-</style>
+
 <br>
 ## Conferencias del 4 al 8 de Mayo de 2020 (Horario GMT-5)
 <br>
 Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Conferencias-ES](https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Conferencias-ES)
 <br><br>
-<!-- links to google calendar make with https://decomaan.github.io/google-calendar-link-generator/ -->
-<div class="divTable">
-<table class="conferenceTable" border="1" style="text-align: center; width: 100%;">
+<table width="100%" border="1" style="text-align:center;">
   <tr>
-    <th class="hourColumn">Horas</th>
-    <th class="otherColumns">Lunes 4</th>
-    <th class="otherColumns">Martes 5</th>
-    <th class="otherColumns">Miércoles 6</th>
-    <th class="otherColumns">Jueves 7</th>
-    <th class="otherColumns">Viernes 8</th>
+    <th width="10%">Horas</th>
+    <th width="18%">Lunes 4</th>
+    <th width="18%">Martes 5</th>
+    <th width="18%">Miércoles 6</th>
+    <th width="18%">Jueves 7</th>
+    <th width="18%">Viernes 8</th>
   </tr>
   <tr>
-    <td class="hourColumn">10:00<br>-<br>10:40</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Hacking+avanzado+con+ZAP+Proxy+-+Daniel+Echeverr%C3%ADa&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200508T150000Z%2F20200508T154000Z"><b>Daniel Echeverría</b>:<br>Hacking avanzado con ZAP Proxy</a></td>
+    <td>10:00-10:40</td>
+    <td rowspan="6"></td>
+    <td rowspan="6"></td>
+    <td rowspan="6"></td>
+    <td rowspan="6"></td>
+    <td><b>Daniel Echeverría</b>:<br>Hacking avanzado con ZAP Proxy</td>
+  </tr>
+    <tr>
+    <td>10:40-11:20</td>
+    <td><b>Mikel Rufian</b>:<br>Ciberinteligencia complemento indispensable para las organizaciones</td>
+  </tr>
+    <tr>
+    <td>11:20-12:00</td>
+    <td><b>Milagros del Valle, Martín Durán</b>:<br>Purple Team</td>
   </tr>
   <tr>
-    <td class="hourColumn">10:40<br>-<br>11:20</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ciberinteligencia+complemento+indispensable+para+las+organizaciones+-+Mikel+Rufian&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200508T154000Z%2F20200508T162000Z"><b>Mikel Rufian</b>:<br>Ciberinteligencia complemento indispensable para las organizaciones</a></td>
+    <td>12:00-12:40</td>
+    <td><b>Fabio Cerullo</b>:<br>Trivias LATAM@home</td>
   </tr>
   <tr>
-    <td class="hourColumn">11:20<br>-<br>12:00</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Purple+Team+-+Milagros+del+Valle%2C+Mart%C3%ADn+Dur%C3%A1n&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200508T162000Z%2F20200508T170000Z"><b>Milagros del Valle, Martín Durán</b>:<br>Purple Team</a></td>
+    <td>12:40-13:20</td>
+    <td><b>Lorenzo Martinez</b>:<br>Por definir</td>
   </tr>
   <tr>
-    <td class="hourColumn">12:00<br>-<br>12:40</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Trivias+LATAM%40home+-+Fabio+Cerullo&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200508T170000Z%2F20200508T174000Z"><b>Fabio Cerullo</b>:<br>Trivias LATAM@home</a></td>
+    <td>13:20-14:00</td>
+    <td><b>Paola Perez</b>:<br>Ciberseguridad en Pandemia</td>
   </tr>
   <tr>
-    <td class="hourColumn">12:40<br>-<br>13:20</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Lorenzo+Martinez&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200508T174000Z%2F20200508T182000Z"><b>Lorenzo Martinez</b>:<br>Por definir</a></td>
+    <td>16:00-16:40</td>
+    <td><b>Diego Ademir</b>:<br>OWASP ASVS, Guía de seguridad para aplicaciones web por excelencia</td>
+    <td><b>Nahum Deavila</b>:<br>Seguridad Informática desde las Perspectiva del usuario Final</td>
+    <td><b>Mateo Martínez</b>:<br>Implementando OWASP SAMM en Latinoamerica</td>
+    <td><b>Alejandro Iacobelli, Pablo Garbossa</b>:<br>Bug Bounty, One year later</td>
+    <td><b>Jaime Restrepo</b>:<br>Lo que nadie te dijo antes de dedicarte al Bug bounty</td>
   </tr>
-  <tr>
-    <td class="hourColumn">13:20<br>-<br>14:00</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns">-</td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ciberseguridad+en+Pandemia+-+Paola+Perez&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200508T182000Z%2F20200508T190000Z"><b>Paola Perez</b>:<br>Ciberseguridad en Pandemia</a></td>
+<tr>
+    <td>16:40-17:20</td>
+    <td><b>John Vargas</b>:<br>Por definir</td>
+    <td><b>Alonso Caballero</b>:<br>Análisis Forense a Sistemas Windows</td>
+    <td><b>Saira Isaac</b>:<br>Auditoría y Seguridad en las Apps</td>
+    <td><b>German Schmidt</b>:<br>Principios del Desarrollo Seguro</td>
+    <td><b>Juampa Rodríguez</b>:<br>Recolección de Información en infraestructuras internas</td>
   </tr>
-  <tr>
-    <td class="hourColumn">16:00<br>-<br>16:40</td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=OWASP+ASVS%2C+Gu%C3%ADa+de+seguridad+para+aplicaciones+web+por+excelencia+-+Diego+Ademir&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200504T210000Z%2F20200504T214000Z"><b>Diego Ademir</b>:<br>OWASP ASVS, Guía de seguridad para aplicaciones web por excelencia</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Seguridad+Inform%C3%A1tica+desde+las+Perspectiva+del+usuario+Final+-+Nahum+Deavila&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200505T210000Z%2F20200505T214000Z"><b>Nahum Deavila</b>:<br>Seguridad Informática desde las Perspectiva del usuario Final</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Implementando+OWASP+SAMM+en+Latinoamerica+-+Mateo+Mart%C3%ADnez&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200506T210000Z%2F20200506T214000Z"><b>Mateo Martínez</b>:<br>Implementando OWASP SAMM en Latinoamerica</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Bug+Bounty%2C+One+year+later+-+Alejandro+Iacobelli%2C+Pablo+Garbossa&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200507T210000Z%2F20200507T214000Z"><b>Alejandro Iacobelli, Pablo Garbossa</b>:<br>Bug Bounty, One year later</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Lo+que+nadie+te+dijo+antes+de+dedicarte+al+Bug+bounty+-+Jaime+Restrepo&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200508T210000Z%2F20200508T214000Z"><b>Jaime Restrepo</b>:<br>Lo que nadie te dijo antes de dedicarte al Bug bounty</a></td>
+<tr>
+    <td>17:20-18:00</td>
+    <td><b>Gustavo Nieves</b>:<br>Threat Modeling Automatizado</td>
+    <td><b>John Copete</b>:<br>Cambiando el chip en el desarrollo de software</td>
+    <td><b>Anabel Broce</b>:<br>Implementando en Producción un Sistema con una Arquitectura Segura</td>
+    <td><b>Edgard Salazar</b>:<br>Controles de seguridad más importantes para arquitectos y desarrolladores</td>
+    <td><b>Everth Gallegos</b>:<br>Preparando un ambiente de pruebas para apps con Xamarin</td>
   </tr>
-  <tr>
-    <td class="hourColumn">16:40<br>-<br>17:20</td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=John+Vargas&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200504T214000Z%2F20200504T222000Z"><b>John Vargas</b>:<br>Por definir</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=An%C3%A1lisis+Forense+a+Sistemas+Windows+-+Alonso+Caballero&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200505T214000Z%2F20200505T222000Z"><b>Alonso Caballero</b>:<br>Análisis Forense a Sistemas Windows</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Auditor%C3%ADa+y+Seguridad+en+las+Apps+-+Saira+Isaac&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200506T214000Z%2F20200506T222000Z"><b>Saira Isaac</b>:<br>Auditoría y Seguridad en las Apps</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Principios+del+Desarrollo+Seguro+-+German+Schmidt&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200507T214000Z%2F20200507T222000Z"><b>German Schmidt</b>:<br>Principios del Desarrollo Seguro</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Recolecci%C3%B3n+de+Informaci%C3%B3n+en+infraestructuras+internas+-+Juampa+Rodr%C3%ADguez&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200508T214000Z%2F20200508T222000Z"><b>Juampa Rodríguez</b>:<br>Recolección de Información en infraestructuras internas</a></td>
+<tr>
+    <td>18:00-18:40</td>
+    <td><b>Elvin Mollinedo</b>:<br>¿Cómo proteger aplicaciones web aunque sean Vulnerables?</td>
+    <td><b>Darwin Algarin</b>:<br>Hacking RFID con proxmark 3</td>
+    <td><b>Eduardo Jana</b>:<br>Webshell webapp</td>
+    <td><b>Sandy Palma</b>:<br>La Gobernanza de la Información</td>
+    <td><b>Juan Quiñe</b>:<br>Cómo generar valor a través del informe de Ethical hacking</td>
   </tr>
-  <tr>
-    <td class="hourColumn">17:20<br>-<br>18:00</td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Threat+Modeling+Automatizado+-+Gustavo+Nieves&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200504T222000Z%2F20200504T230000Z"><b>Gustavo Nieves</b>:<br>Threat Modeling Automatizado</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Cambiando+el+chip+en+el+desarrollo+de+software+-+John+Copete&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200505T222000Z%2F20200505T230000Z"><b>John Copete</b>:<br>Cambiando el chip en el desarrollo de software</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Implementando+en+Producci%C3%B3n+un+Sistema+con+una+Arquitectura+Segura+-+Anabel+Broce&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200506T222000Z%2F20200506T230000Z"><b>Anabel Broce</b>:<br>Implementando en Producción un Sistema con una Arquitectura Segura</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Controles+de+seguridad+m%C3%A1s+importantes+para+arquitectos+y+desarrolladores+-+Edgard+Salazar&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200507T222000Z%2F20200507T230000Z"><b>Edgard Salazar</b>:<br>Controles de seguridad más importantes para arquitectos y desarrolladores</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Preparando+un+ambiente+de+pruebas+para+apps+con+Xamarin+-+Everth+Gallegos&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200508T222000Z%2F20200508T230000Z"><b>Everth Gallegos</b>:<br>Preparando un ambiente de pruebas para apps con Xamarin</a></td>
+<tr>
+    <td>18:40-19:20</td>
+    <td><b>Victor Gutierrez</b>:<br>Reversing</td>
+    <td><b>Luis Pazmiño</b>:<br>Escalada de privilegios y movimientos laterales en ambientes windows y Linux</td>
+    <td><b>Raúl Aguilar</b>:<br>Security Knowledge Framework</td>
+    <td><b>Fernando Vela</b>:<br>SOC y Threat Intelligence</td>
+    <td><b>Ramiro Pulgar</b>:<br>Cyber Red Team, el equipo auditor de controles de seguridad</td>
   </tr>
-  <tr>
-    <td class="hourColumn">18:00<br>-<br>18:40</td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=%C2%BFC%C3%B3mo+proteger+aplicaciones+web+aunque+sean+Vulnerables%3F+-+Elvin+Mollinedo&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200504T230000Z%2F20200504T234000Z"><b>Elvin Mollinedo</b>:<br>¿Cómo proteger aplicaciones web aunque sean Vulnerables?</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Hacking+RFID+con+proxmark+3+-+Darwin+Algarin&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200505T230000Z%2F20200505T234000Z"><b>Darwin Algarin</b>:<br>Hacking RFID con proxmark 3</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Webshell+webapp+-+Eduardo+Jana&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200506T230000Z%2F20200506T234000Z"><b>Eduardo Jana</b>:<br>Webshell webapp</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=La+Gobernanza+de+la+Informaci%C3%B3n+-+Sandy+Palma&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200507T230000Z%2F20200507T234000Z"><b>Sandy Palma</b>:<br>La Gobernanza de la Información</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=C%C3%B3mo+generar+valor+a+trav%C3%A9s+del+informe+de+Ethical+hacking+-+Juan+Qui%C3%B1e&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200508T230000Z%2F20200508T234000Z"><b>Juan Quiñe</b>:<br>Cómo generar valor a través del informe de Ethical hacking</a></td>
+<tr>
+    <td>19:20-20:00</td>
+    <td><b>Gabriel Llumiquinga</b>:<br>Desarrollo de las Cibercomunidades en la Región</td>
+    <td><b>Josué Rojas</b>:<br>From window to System, developing an exploit</td>
+    <td><b>Armando Rodas</b>:<br>OSINT, Técnicas de Reconocimiento en un Test de Intrusión</td>
+    <td><b>Eduardo Snape</b>:<br>Gestión de seguridad con ISM3, la alternativa luego de un Pentest</td>
+    <td><b>Rodrigo Valero</b>:<br>Protección de acceso a las aplicaciones bajo Secure Access Service Edge</td>
   </tr>
-  <tr>
-    <td class="hourColumn">18:40<br>-<br>19:20</td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Reversing+-+Victor+Gutierrez&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200504T234000Z%2F20200505T002000Z"><b>Victor Gutierrez</b>:<br>Reversing</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Escalada+de+privilegios+y+movimientos+laterales+en+ambientes+windows+y+Linux+-+Luis+Pazmi%C3%B1o&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200505T234000Z%2F20200506T002000Z"><b>Luis Pazmiño</b>:<br>Escalada de privilegios y movimientos laterales en ambientes Windows y Linux</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Security+Knowledge+Framework+-+Ra%C3%BAl+Aguilar&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200506T234000Z%2F20200507T002000Z"><b>Raúl Aguilar</b>:<br>Security Knowledge Framework</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SOC+y+Threat+Intelligence+-+Fernando+Vela&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200507T234000Z%2F20200508T002000Z"><b>Fernando Vela</b>:<br>SOC y Threat Intelligence</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Cyber+Red+Team%2C+el+equipo+auditor+de+controles+de+seguridad+-+Ramiro+Pulgar&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200508T234000Z%2F20200509T002000Z"><b>Ramiro Pulgar</b>:<br>Cyber Red Team, el equipo auditor de controles de seguridad</a></td>
+<tr>
+    <td>20:00-20:40</td>
+    <td><b>Eduardo Casanovas, Carlos Tapia</b>:<br>Bug Bounty, un enfoque diferente</td>
+    <td><b>Salvador Mendoza</b>:<br>NFC Copy Cat, Open source to test payment systems</td>
+    <td><b>Pablo Rico</b>:<br>TheHive como plataforma de respuesta a incidentes</td>
+    <td><b>Rafael Monterroza</b>:<br>Machine Learning aplicado a la Ciberseguridad</td>
+    <td><b>Amilcar de León</b>:<br>Ingeniería social, el arte o la ciencia del hackeo de personas?</td>
   </tr>
-  <tr>
-    <td class="hourColumn">19:20<br>-<br>20:00</td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Desarrollo+de+las+Cibercomunidades+en+la+Regi%C3%B3n+-+Gabriel+Llumiquinga&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200505T002000Z%2F20200505T010000Z"><b>Gabriel Llumiquinga</b>:<br>Desarrollo de las Cibercomunidades en la Región</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=From+window+to+System%2C+developing+an+explot+-+Josu%C3%A9+Rojas&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200506T002000Z%2F20200506T010000Z"><b>Josué Rojas</b>:<br>From window to System, developing an exploit</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=OSINT%2C+T%C3%A9cnicas+de+Reconocimiento+en+un+Test+de+Intrusi%C3%B3n+-+Armando+Rodas&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200507T002000Z%2F20200507T010000Z"><b>Armando Rodas</b>:<br>OSINT, Técnicas de Reconocimiento en un Test de Intrusión</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Gesti%C3%B3n+de+seguridad+con+ISM3%2C+la+alternativa+luego+de+un+Pentest+-+Eduardo+Snape&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200508T002000Z%2F20200508T010000Z"><b>Eduardo Snape</b>:<br>Gestión de seguridad con ISM3, la alternativa luego de un Pentest</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Protecci%C3%B3n+de+acceso+a+las+aplicaciones+bajo+Secure+Access+Service+Edge+-+Rodrigo+Valero&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200509T002000Z%2F20200509T010000Z"><b>Rodrigo Valero</b>:<br>Protección de acceso a las aplicaciones bajo Secure Access Service Edge</a></td>
+<tr>
+    <td>20:40-21:20</td>
+    <td><b>Gabriel Bergel, Rodrigo Quevedo</b>:<br>Biohacking The Disability</td>
+    <td><b>Hector Aguirre</b>:<br>Ethical Hacking Defensivo</td>
+    <td><b>Michael Hidalgo</b>:<br>MITRE ATT&CK, conociendo al adversario</td>
+    <td><b>Hubert de Mercado</b>:<br>Seguridad REST API, Lo bueno, lo malo y lo feo</td>
+    <td><b>Elezer Pineda</b>:<br>Threat Hunting sin colores</td>
   </tr>
-  <tr>
-    <td class="hourColumn">20:00<br>-<br>20:40</td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Bug+Bounty%2C+un+enfoque+diferente+-+Eduardo+Casanovas%2C+Carlos+Tapia&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200505T010000Z%2F20200505T014000Z"><b>Eduardo Casanovas, Carlos Tapia</b>:<br>Bug Bounty, un enfoque diferente</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NFC+Copy+Cat%2C+Open+source+to+test+payment+system+-+Salvador+Mendoza&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200506T010000Z%2F20200506T014000Z"><b>Salvador Mendoza</b>:<br>NFC Copy Cat, Open source to test payment systems</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=TheHive+como+plataforma+de+respuesta+a+incidente+-+Pablo+Rico&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200507T010000Z%2F20200507T014000Z"><b>Pablo Rico</b>:<br>TheHive como plataforma de respuesta a incidentes</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Machine+Learning+aplicado+a+la+Ciberseguridad+-+Rafael+Monterroza&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200508T010000Z%2F20200508T014000Z"><b>Rafael Monterroza</b>:<br>Machine Learning aplicado a la Ciberseguridad</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ingenier%C3%ADa+social%2C+el+arte+o+la+ciencia+del+hackeo+de+personas%3F+-+Amilcar+de+Le%C3%B3n&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200509T010000Z%2F20200509T014000Z"><b>Amilcar de León</b>:<br>Ingeniería social, el arte o la ciencia del hackeo de personas?</a></td>
-  </tr>
-  <tr>
-    <td class="hourColumn">20:40<br>-<br>21:20</td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Biohacking+The+Disability+-+Gabriel+Bergel%2C+Rodrigo+Quevedo&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200505T014000Z%2F20200505T022000Z"><b>Gabriel Bergel, Rodrigo Quevedo</b>:<br>Biohacking The Disability</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ethical+Hacking+Defensivo+-+Hector+Aguirre&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200506T014000Z%2F20200506T022000Z"><b>Hector Aguirre</b>:<br>Ethical Hacking Defensivo</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=MITRE+ATT%26CK%2C+conociendo+al+adversario+-+Michael+Hidalgo&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200507T014000Z%2F20200507T022000Z"><b>Michael Hidalgo</b>:<br>MITRE ATT&CK, conociendo al adversario</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Seguridad+REST+API%2C+Lo+bueno%2C+lo+malo+y+lo+feo+-+Hubert+de+Mercado&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200508T014000Z%2F20200508T022000Z"><b>Hubert de Mercado</b>:<br>Seguridad REST API, Lo bueno, lo malo y lo feo</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Threat+Hunting+sin+colores+-+Elezer+Pineda&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200509T014000Z%2F20200509T022000Z"><b>Elezer Pineda</b>:<br>Threat Hunting sin colores</a></td>
-  </tr>
-  <tr>
-    <td class="hourColumn">21:20<br>-<br>22:00</td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Secure+Web+Development+Training+for+Agile+Teams+-+Nicolas+Valcarcel&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200505T022000Z%2F20200504T030000Z"><b>Nicolas Valcarcel</b>:<br>Secure Web Development Training for Agile Teams</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Pentensting+Web%2C+El+Arte+que+va+m%C3%A1s+all%C3%A1+de+las+Herramientas+-+Victor+Vera&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200506T022000Z%2F20200505T030000Z"><b>Victor Vera</b>:<br>Pentensting Web, El Arte que va más allá de las Herramientas</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Conociendo+y+Analizando+la+Dark+Web+-+Roberto+Mendoza&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200507T022000Z%2F20200506T030000Z"><b>Roberto Mendoza</b>:<br>Conociendo y Analizando la Dark Web</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Hacking+en+tiempos+de+COVID-19%2C+Transformaci%C3%B3n+Digital+sin+Controles+-+Ricardo+Supo&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200508T022000Z%2F20200507T030000Z"><b>Ricardo Supo</b>:<br>Hacking en tiempos de COVID-19, Transformación Digital sin Controles</a></td>
-    <td class="otherColumns"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=T%C3%A9cnicas+efectivas+de+Ingenier%C3%ADa+Social+a+trav%C3%A9s+de+redes+sociales+-+Gonzalo+Nina&details=%2A%2A+OWASP+LATAM+%40home%2C+Pandemic+Edition+%2A%2A&dates=20200509T022000Z%2F20200509T030000Z"><b>Gonzalo Nina</b>:<br>Técnicas efectivas de Ingeniería Social a través de redes sociales</a></td>
+<tr>
+    <td>21:20-22:00</td>
+    <td><b>Nicolas Valcarcel</b>:<br>Secure Web Development Training for Agile Teams</td>
+    <td><b>Victor Vera</b>:<br>Pentensting Web, El Arte que va más allá de las Herramientas</td>
+    <td><b>Roberto Mendoza</b>:<br>Conociendo y Analizando la Dark Web</td>
+    <td><b>Ricardo Supo</b>:<br>Hacking en tiempos de COVID-19, Transformación Digital sin Controles</td>
+    <td><b>Gonzalo Nina</b>:<br>Técnicas efectivas de Ingeniería Social a través de redes sociales</td>
   </tr>
 </table>
-</div>
