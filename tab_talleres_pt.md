@@ -1,7 +1,7 @@
 ---
 
 title: talleres_pt
-displaytext: Talleres PT
+displaytext: Workshop PT
 layout:  col-sidebar
 tab: true
 order: 4
