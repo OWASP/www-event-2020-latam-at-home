@@ -81,7 +81,7 @@ Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-10355138297
   </tr>
 <tr>
     <td>16:40-17:20</td>
-    <td><b>Adam Shostack</b>:<br>Threat Modeling Lessons from Star Wars</td>
+    <td><b>John Vargas</b>:<br>Por definir</td>
     <td><b>Alonso Caballero</b>:<br>Análisis Forense a Sistemas Windows</td>
     <td><b>Saira Isaac</b>:<br>Auditoría y Seguridad en las Apps</td>
     <td><b>German Schmidt</b>:<br>Principios del Desarrollo Seguro</td>
