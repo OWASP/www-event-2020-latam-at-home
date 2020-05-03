@@ -21,9 +21,9 @@ En esta gira, participan Universidades, Institutos Académicos, Empresas del Sec
 Este año, por la situación que está padeciendo el mundo por la pandemia del Covid-19, se ha cancelado la participación del OWASP LATAM TOUR 2020 de manera presencial y ha dado pie para proponer realizar un evento con las mismas características pero de manera Virtual y con organización local de cada capítulo de OWASP.
 
 ## Registro del evento
-
-Registrate a conferencias y talleres en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974](https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974)
-
+<p><span style="color:blue">
+Registrate a conferencias y talleres en cada tab en la parte superior.
+</span></p>
 ### Objetivo del evento:
 
 El evento que proponemos, tiene como objetivo realizar una semana de talleres y presentaciones simultáneos de manera virtual sobre temas relacionados a la seguridad informática.
