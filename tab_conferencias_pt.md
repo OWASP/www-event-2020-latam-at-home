@@ -1,7 +1,7 @@
 ---
 
 title: conferencias_pt
-displaytext: Palestras PT
+displaytext: Workshop PT
 layout:  col-sidebar
 tab: true
 order: 2
