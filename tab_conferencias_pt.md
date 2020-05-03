@@ -12,7 +12,7 @@ tags: LatamTour2020
 <br>
 ## Palestras de 4 a 8 de maio de 2020 (horário GMT-3)
 <br>
-Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974](https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974)
+Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Palestras-PT](https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Palestras-PT)
 <br><br>
 <table width="100%" border="1" style="text-align:center;">
   <tr>

@@ -12,7 +12,7 @@ tags: LatamTour2020
 <br>
 ## Conferencias del 4 al 8 de Mayo de 2020 (Horario GMT-5)
 <br>
-Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974](https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974)
+Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Conferencias-ES](https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Conferencias-ES)
 <br><br>
 <table width="100%" border="1" style="text-align:center;">
   <tr>
