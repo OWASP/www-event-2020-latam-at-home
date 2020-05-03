@@ -31,7 +31,3 @@ Todos los desafíos estaran basados en el OWASP Top 10 y los jugadores podrán e
 A lo largo del torneo los jugadores deberán ganar puntos para subir a la cima y ser el mejor. ¡Los finalistas ganarán premios!
 <br>
 Registrate en: [https://discover.securecodewarrior.com/OWASP-LATAM-torneo.html](https://discover.securecodewarrior.com/OWASP-LATAM-torneo.html)
-
-
-
-

@@ -45,3 +45,4 @@ Registrate en los enlaces ubicados en cada taller:
     <td valign="top"><b>César Rodríguez</b>:<br>Pentesting en Android Con Frida<br><br><p><span style="color:red">Regístrate <a href="https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller12-ES">AQUI</a></span></p></td>
   </tr>
  </table>
+ 

@@ -27,7 +27,3 @@ Registre-se no link encontrado em cada workshop:
     <td valign="top"><b>Ricardo Supo</b>:<br>SQL Injection para todos<br><br><p><span style="color:red">Registe-se <a href="https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Workshop02-PT">AQUI</a></span></p></td>
   </tr>
  </table>
-
-
-
- 
