@@ -12,7 +12,7 @@ tags: LatamTour2020
 <br>
 ## Palestras de 4 a 8 de maio de 2020 (horário GMT-3)
 <br>
-Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974](https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974)
+Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Palestras-PT](https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Palestras-PT)
 <br><br>
 <table width="100%" border="1" style="text-align:center;">
   <tr>
@@ -48,7 +48,7 @@ Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-10355138297
     <td>Por confirmar</td>
     <td><b>Zoziel Pinto Freire</b>:<br>Red Team x Blue Team</td>
     <td><b>Luiz Vieira</b>:<br>DevOps to DevSecOps, Becoming a Living Jedi</td>
-    <td>Por confirmar</td>
+    <td><b>Guilherme Alencar</b>:<br>Riding with Zero Trust</td>
   </tr>
 <tr>
     <td>18:40-19:20</td>
