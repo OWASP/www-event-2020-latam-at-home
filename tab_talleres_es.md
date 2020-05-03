@@ -12,7 +12,7 @@ tags: LatamTour2020
 <br>
 ## Talleres del 4 al 8 de Mayo de 2020 (Horario GMT-5)
 <br>
-Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974](https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974)
+Registrate en los enlaces ubicados en cada taller: [https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974](https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974)
 <br><br>
 
 <table width="100%" border="1" style="text-align:center;">
@@ -26,17 +26,17 @@ Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-10355138297
   </tr>
   <tr>
     <td rowspan="2">14:00-16:00</td>
-    <td><b>Emiliano Piscitelli</b>:<br>Introducción a OSINT e Ingeniería Social</td>
-    <td><b>Carlos Isaac</b>:<br>Haciendo una Aplicación Java Zombi</td>
-    <td><b>Ricardo Supo</b>:<br>SQL Injection para todos</td>
-    <td><b>Gustavo Nieves</b>:<br>Taller de Desarrollo Seguro con SAST y Threat Modeling Automatizado</td>
-    <td><b>Cris Lima</b>:<br>Docker, un laboratorio de pentesting</td>
+    <td><b>Emiliano Piscitelli</b>:<br>Introducción a OSINT e Ingeniería Social<br><br><p><span style="color:red">Registe-se <a href="https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller01-ES">AQUI</a></span></p></td>
+    <td><b>Carlos Isaac</b>:<br>Haciendo una Aplicación Java Zombi<br><br><p><span style="color:red">Registe-se <a href="https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller03-ES">AQUI</a></span></p></td>
+    <td><b>Ricardo Supo</b>:<br>SQL Injection para todos<br><br><p><span style="color:red">Registe-se <a href="https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller05-ES">AQUI</a></span></p></td>
+    <td><b>Gustavo Nieves</b>:<br>Taller de Desarrollo Seguro con SAST y Threat Modeling Automatizado<br><br><p><span style="color:red">Registe-se <a href="https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller07-ES">AQUI</a></span></p></td>
+    <td><b>Cris Lima</b>:<br>Docker, un laboratorio de pentesting<br><br><p><span style="color:red">Registe-se <a href="https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller10-ES">AQUI</a></span></p></td>
   </tr>
     <tr>
-    <td><b>José Moreno</b>:<br>OSINT Ofensivo</td>
-    <td><b>Christian Javier</b>:<br>Posicionamiento Absoluto y Temporal de Dispositivos Móviles</td>
-    <td><b>Roberto Rubio</b>:<br>Manejo de las IP’s Públicas. Es un "Single Point Of Entry"</td>
-    <td><b>Giovanni Cruz</b>:<br>Análisis de Artefactos en Windows</td>
-    <td><b>Mauricio Urizar</b>:<br>Análisis Forense a Windows</td>
+    <td><b>José Moreno</b>:<br>OSINT Ofensivo<br><br><p><span style="color:red">Registe-se <a href="https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller02-ES">AQUI</a></span></p></td>
+    <td><b>Christian Javier</b>:<br>Posicionamiento Absoluto y Temporal de Dispositivos Móviles<br><br><p><span style="color:red">Registe-se <a href="https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller04-ES">AQUI</a></span></p></td>
+    <td><b>Roberto Rubio</b>:<br>Manejo de las IP’s Públicas. Es un "Single Point Of Entry"<br><br><p><span style="color:red">Registe-se <a href="https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller06-ES">AQUI</a></span></p></td>
+    <td><b>Giovanni Cruz</b>:<br>Análisis de Artefactos en Windows<br><br><p><span style="color:red">Registe-se <a href="https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller08-ES">AQUI</a></span></p></td>
+    <td><b>Mauricio Urizar</b>:<br>Análisis Forense a Windows<br><br><p><span style="color:red">Registe-se <a href="https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller11-ES">AQUI</a></span></p></td>
   </tr>
  </table>
