@@ -25,50 +25,30 @@ Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-10355138297
   </tr>
   <tr>
     <td>10:00-10:40</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
+    <td rowspan="6">-</td>
+    <td rowspan="6">-</td>
+    <td rowspan="6">-</td>
+    <td rowspan="6">-</td>
     <td><b>Daniel Echeverría</b>:<br>Hacking avanzado con ZAP Proxy</td>
   </tr>
     <tr>
     <td>10:40-11:20</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
     <td><b>Mikel Rufian</b>:<br>Ciberinteligencia complemento indispensable para las organizaciones</td>
   </tr>
     <tr>
     <td>11:20-12:00</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
     <td><b>Milagros del Valle, Martín Durán</b>:<br>Purple Team</td>
   </tr>
   <tr>
     <td>12:00-12:40</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
     <td><b>Fabio Cerullo</b>:<br>Trivias LATAM@home</td>
   </tr>
   <tr>
     <td>12:40-13:20</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
     <td><b>Lorenzo Martinez</b>:<br>Por definir</td>
   </tr>
   <tr>
     <td>13:20-14:00</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
     <td><b>Paola Perez</b>:<br>Ciberseguridad en Pandemia</td>
   </tr>
   <tr>
