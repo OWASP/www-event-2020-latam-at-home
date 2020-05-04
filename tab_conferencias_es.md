@@ -63,7 +63,7 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
 <table class="conferenceTable" border="1" style="text-align: center; width: 100%;">
   <tr>
     <th class="hourColumn">Horas</th>
-    <th class="otherColumns">Lunes 4<br><p align="center"><img src="assets/images/Youtube_Live.png"></p></th>
+    <th class="otherColumns">Lunes 4<br><p align="center" height="20%" width="20%"><img src="assets/images/Youtube_Live.png"></p></th>
     <th class="otherColumns">Martes 5</th>
     <th class="otherColumns">Miércoles 6</th>
     <th class="otherColumns">Jueves 7</th>
