@@ -26,8 +26,8 @@ Registrate en los enlaces ubicados en cada taller, y hazlo desde una cuenta @gma
   </tr>
   <tr>
     <td rowspan="3" class="hourColumn">14:00<br>-<br>16:00</td>
-<!--    <td class="otherColumns"><b>Emiliano Piscitelli</b>:<br>Introducción a OSINT e Ingeniería Social<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller01-ES">AQUI</a></span></p></td>-->
-    <td class="otherColumns"><b>Emiliano Piscitelli</b>:<br>Introducción a OSINT e Ingeniería Social<br><br><p><span style="color:red">Accede al taller <a href="https://meet.google.com/djz-ktdn-day">AQUI</a></span></p></td>
+    <td class="otherColumns"><b>Emiliano Piscitelli</b>:<br>Introducción a OSINT e Ingeniería Social<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller01-ES">AQUI</a></span></p></td>
+<!--    <td class="otherColumns"><b>Emiliano Piscitelli</b>:<br>Introducción a OSINT e Ingeniería Social<br><br><p><span style="color:red">Accede al taller <a href="https://meet.google.com/djz-ktdn-day">AQUI</a></span></p></td>-->
     <td class="otherColumns"><b>Carlos Isaac</b>:<br>Haciendo una Aplicación Java Zombi<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller03-ES">AQUI</a></span></p></td>
     <td class="otherColumns"><b>Ricardo Supo</b>:<br>SQL Injection para todos<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller05-ES">AQUI</a></span></p></td>
     <td class="otherColumns"><b>Gustavo Nieves</b>:<br>Taller de Desarrollo Seguro con SAST y Threat Modeling Automatizado<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller07-ES">AQUI</a></span></p></td>
