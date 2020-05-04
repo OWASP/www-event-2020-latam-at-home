@@ -27,7 +27,7 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
     <td class="hourColumn">16:00<br>-<br>16:40</td>
     <td>Por confirmar</td>
     <td><b>Daniel Carlier</b>:<br>SecDevLabs Mobile, a laboratory for learning secure web/mobile development in a practical manner</td>
-    <td><b>Fábio Costa Isaque Lopes</b>:<br>Desafios de segurança da informação na cloud no cenário atual</td>
+    <td><b>Eduardo Müller</b>:<br>Abusando de conversores HTML para PDF</td>
     <td><b>Wagner Morais</b>:<br>Análise de Redes Sociais com OSINT</td>
   </tr>
 <tr>
@@ -42,7 +42,7 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
     <td><b>Anchises Moraes</b>:<br>Bountying for Bugs</td>
     <td>Por confirmar</td>
     <td><b>Alessandra Martins</b>:<br>OWASP Top 10 e como isso pode dar um up nas QA´s skills?</td>
-    <td><b>Eduardo Müller</b>:<br>Abusando de conversores HTML para PDF</td>
+    <td><b>Fábio Isaque</b>:<br>Desafios de segurança da informação na Cloud no cenário atual</td>
   </tr>
 <tr>
     <td class="hourColumn">18:00<br>-<br>18:40</td>
@@ -59,7 +59,7 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
     <td class="hourColumn">18:40<br>-<br>19:20</td>
     <td><b>Raphael Hagi</b>:<br>Top 10 API</td>
     <td><b>Kembolle Amilkar</b>:<br>Defesa Cibernética em Estruturas Corporativas</td>
-    <td><b>Carlo Revoredo</b>:<br>Técnicas para detecção de fraudes</td>
+    <td><b>Marcelo Revoredo</b>:<br>Técnicas para detecção de fraudes</td>
     <td><b>Luis Araujo</b>:<br>Desenvolvimento Seguro além das ferramentas</td>
   </tr>
 <tr>
