@@ -1,7 +1,7 @@
 ---
 
 title: ctf
-displaytext: CTF
+displaytext: Capture The Flag
 layout:  col-sidebar
 tab: true
 order: 5
