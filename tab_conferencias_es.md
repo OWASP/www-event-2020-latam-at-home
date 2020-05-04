@@ -107,7 +107,7 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
     <td class="otherColumns">-</td>
     <td class="otherColumns">-</td>
     <td class="otherColumns">-</td>
-    <td class="otherColumns"><b>Lorenzo Martinez</b>:<br>Por definir</td>
+    <td class="otherColumns"><b>Lorenzo Martinez</b>:<br>Wintriage, la herramienta del DFIRer en Windows</td>
   </tr>
   <tr>
     <td class="hourColumn">13:20<br>-<br>14:00</td>
