@@ -31,5 +31,7 @@ Compita contra otros participantes en una serie de desafíos de códigos vulnera
 Todos los desafíos estaran basados en el OWASP Top 10 y los jugadores podrán elegir competir con una variedad de lenguajes de programación, incluyendo Java EE, Java Spring, C# MVC, C# WebForms, Go, Ruby on Rails, Python Django & Flask, Scala Play, Node .JS, React y los lenguajes de programación de iOS y Android.
 
 A lo largo del torneo los jugadores deberán ganar puntos para subir a la cima y ser el mejor. ¡Los finalistas ganarán premios!
+
+La competencia será desde el lunes 4 a las 2:00pm (GMT-5) hasta el viernes 8 a las 4:30pm
 <br>
 Registrate en: [http://discover.securecodewarrior.com/OWASP-LATAM-torneo.html](http://discover.securecodewarrior.com/OWASP-LATAM-torneo.html)
