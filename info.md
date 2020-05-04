@@ -6,5 +6,5 @@
 
 ### HashTags
 
-* [\#OWASPLatamTour](https://twitter.com/hashtag/OWASPLatamTour?src=hashtag_click)
-* [\#OWASPLatamAtHome](https://twitter.com/hashtag/OWASPLatamAtHome?src=hashtag_click)
+* [\#OWASPLatamTour](http://twitter.com/hashtag/OWASPLatamTour?src=hashtag_click)
+* [\#OWASPLatamAtHome](http://twitter.com/hashtag/OWASPLatamAtHome?src=hashtag_click)

@@ -56,9 +56,9 @@ tags: LatamTour2020
 <br>
 ## Conferencias del 4 al 8 de Mayo de 2020 (Horario GMT-5)
 <br>
-Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Conferencias-ES](https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Conferencias-ES)
+Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Conferencias-ES](http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Conferencias-ES)
 <br><br>
-<!-- links to google calendar make with https://decomaan.github.io/google-calendar-link-generator/ -->
+
 <div class="divTable">
 <table class="conferenceTable" border="1" style="text-align: center; width: 100%;">
   <tr>
@@ -75,7 +75,7 @@ Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-10355138297
     <td class="otherColumns">-</td>
     <td class="otherColumns">-</td>
     <td class="otherColumns">-</td>
-    <td class="otherColumns"><b>Daniel Echeverría</b>:<br>Hacking avanzado con ZAP Proxy</td>
+    <td class="otherColumns"><b>Daniel Echeverri</b>:<br>Hacking avanzado con ZAP Proxy</td>
   </tr>
   <tr>
     <td class="hourColumn">10:40<br>-<br>11:20</td>
@@ -151,7 +151,7 @@ Registrate en: [https://www.eventbrite.com/e/owasp-latamhome-tickets-10355138297
   </tr>
   <tr>
     <td class="hourColumn">18:40<br>-<br>19:20</td>
-    <td class="otherColumns"><b>Victor Gutierrez</b>:<br>Reversing</td>
+    <td class="otherColumns"><b>Victor Gutierrez</b>:<br>Historia épica de un reverser</td>
     <td class="otherColumns"><b>Luis Pazmiño</b>:<br>Escalada de privilegios y movimientos laterales en ambientes Windows y Linux</td>
     <td class="otherColumns"><b>Raúl Aguilar</b>:<br>Security Knowledge Framework</td>
     <td class="otherColumns"><b>Fernando Vela</b>:<br>SOC y Threat Intelligence</td>
