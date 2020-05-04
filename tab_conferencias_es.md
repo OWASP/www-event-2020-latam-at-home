@@ -127,7 +127,7 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
   </tr>
   <tr>
     <td class="hourColumn">16:40<br>-<br>17:20</td>
-    <td class="otherColumns"><b>John Vargas</b>:<br>Por definir</td>
+    <td class="otherColumns"><b>John Vargas</b>:<br>Seguridad de Aplicaciones Web  OWASP Style</td>
     <td class="otherColumns"><b>Alonso Caballero</b>:<br>Análisis Forense a Sistemas Windows</td>
     <td class="otherColumns"><b>Saira Isaac</b>:<br>Auditoría y Seguridad en las Apps</td>
     <td class="otherColumns"><b>German Schmidt</b>:<br>Principios del Desarrollo Seguro</td>
