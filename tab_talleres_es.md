@@ -13,8 +13,8 @@ tags: LatamTour2020
 ## Talleres del 4 al 8 de Mayo de 2020 (Horario GMT-5)
 <br>
 Para acceder a la clase:
-1. Registrate en los enlaces ubicados en cada taller, y hazlo desde una cuenta @owasp.org o @gmail.com
-2. Desde una cuenta @owasp.org o @gmail.org, agrega la clase en Google Classroom como indica el siguiente manual usando el código de cada taller: [http://shorturl.at/gwxMS](https://support.google.com/edu/classroom/answer/6020297?co=GENIE.Platform%3DDesktop&hl=es)
+1. Registrate en los enlaces ubicados en cada taller.
+2. Desde una cuenta @owasp.org o @gmail.com, agrega la clase en Google Classroom como indica el siguiente manual usando el código de cada taller: [http://shorturl.at/gwxMS](https://support.google.com/edu/classroom/answer/6020297?co=GENIE.Platform%3DDesktop&hl=es)
 <br><br>
 <div class="divTable">
 <table class="conferenceTable" border="1" style="text-align: center; width: 100%;">
