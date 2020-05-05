@@ -34,6 +34,7 @@ Para acceder a la clase:
     <td valign="top" class="otherColumns"><b>Roberto Rubio</b>:<br>Manejo de las IP’s Públicas. Es un "Single Point Of Entry"<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller06-ES">AQUI</a></span></p><br>Código acceso:<br></td>
     <td valign="top" class="otherColumns"><b>Gustavo Nieves</b>:<br>Taller de Desarrollo Seguro con SAST y Threat Modeling Automatizado<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller07-ES">AQUI</a></span></p><br>Código acceso:<br></td>
     <td valign="top" class="otherColumns"><b>Cris Lima</b>:<br>Docker, un laboratorio de pentesting<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller10-ES">AQUI</a></span></p><br>Código acceso:<br></td>
+    <td valign="top" class="otherColumns"><b>Ricardo Supo</b>:<br>SQL Injection para todos<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller05-ES">AQUI</a></span></p><br>Código acceso:<br></td>
   </tr>
   <tr>
     <td valign="top" class="otherColumns"><b>José Moreno</b>:<br>OSINT Ofensivo<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller02-ES">AQUI</a></span></p><br>Código acceso:<br>cewfm2v</td>
@@ -43,7 +44,7 @@ Para acceder a la clase:
     <td valign="top" class="otherColumns"><b>Mauricio Urizar</b>:<br>Análisis Forense a Windows<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller11-ES">AQUI</a></span></p><br>Código acceso:<br></td>
   </tr>
     <tr>
-    <td valign="top" class="otherColumns" colspan="3">-</td>
+    <td class="otherColumns" colspan="3"></td>
     <td valign="top" class="otherColumns"><b>Pablo Barrera</b>:<br>BurpSuite 101<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller09-ES">AQUI</a></span></p><br>Código acceso:<br></td>
     <td valign="top" class="otherColumns"><b>César Rodríguez</b>:<br>Pentesting en Android Con Frida<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller12-ES">AQUI</a></span></p><br>Código acceso:<br></td>
   </tr>
