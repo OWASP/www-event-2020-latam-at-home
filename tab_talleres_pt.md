@@ -12,7 +12,9 @@ tags: LatamTour2020
 <br>
 ## Workshop del 7 al 8 de Mayo de 2020 (Horario GMT-3)
 <br>
-Registre-se no link encontrado em cada workshop, e use uma conta @gmail.com o @owasp.org:
+Para acessar a turma:
+1. Registre-se nos links localizados em cada workshop.
+2. Com uma conta @owasp.org ou @gmail.com, adicione o código en Google Classroom, conforme indicado no manual a seguir, usando o código de cada workshop: shorturl.at/knJP6
 <br><br>
 
 <table width="100%" border="1" style="text-align:center;">
