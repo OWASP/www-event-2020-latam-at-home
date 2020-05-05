@@ -40,7 +40,7 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
 <tr>
     <td class="hourColumn">17:20<br>-<br>18:00</td>
     <td><b>Anchises Moraes</b>:<br>Bountying for Bugs</td>
-    <td><b>Matheus Alves</b>:<br>Analisando aplicações iOS</td>
+    <td><b>Mateus Alves</b>:<br>Analisando aplicações iOS</td>
     <td><b>Alessandra Martins</b>:<br>OWASP Top 10 e como isso pode dar um up nas QA´s skills?</td>
     <td><b>Fábio Isaque</b>:<br>Desafios de segurança da informação na Cloud no cenário atual</td>
   </tr>
