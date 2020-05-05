@@ -25,14 +25,14 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
   </tr>
   <tr>
     <td class="hourColumn">16:00<br>-<br>16:40</td>
-    <td>Por confirmar</td>
+    <td>-</td>
     <td><b>Daniel Carlier</b>:<br>SecDevLabs Mobile, a laboratory for learning secure web/mobile development in a practical manner</td>
     <td><b>Eduardo Müller</b>:<br>Abusando de conversores HTML para PDF</td>
     <td><b>Wagner Morais</b>:<br>Análise de Redes Sociais com OSINT</td>
   </tr>
 <tr>
     <td class="hourColumn">16:40<br>-<br>17:20</td>
-    <td><b>Alessandra Martins</b>:<br>Jornada Security by Design</td>
+    <td>-</td>
     <td><b>Manoel Domingues</b>:<br>Huskyci, orquestração de análises de segurança</td>
     <td><b>Leandro Inácio</b>:<br>Automatizando o processo de reconhecimento</td>
     <td><b>Ricardo Supo</b>:<br>Hacking nos dias de COVID-19, Transformação digital sem controles</td>
