@@ -26,12 +26,10 @@ Muchos líderes de Capítulos OWASP de Latinoamérica colaboraron en esta inicia
 * [Ricardo Supo](mailto:Ricardo.Supo@owasp.org)
 * [Saira Isaac](mailto:Saira.Isaac@owasp.org)
 
-## Colaboración:
+## Colaboración Especial:
 
 * [Diego Duarte](mailto:dadhemir@owasp.org)
 * [Elvin Mollinedo](mailto:Elvin.Mollinedo@owasp.org)
 * [Gustavo Nieves](mailto:Gustavo.Nievesarreaza@owasp.org)
 * [Martin Marsicano](mailto:Martin.Marsicano@owasp.org)
-
-
-
+* [Onam Díaz](mailto:onam.diaz@owasp.org)
