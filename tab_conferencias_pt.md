@@ -56,7 +56,7 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
     <td colspan="4">BREAK</td>
   </tr>
 <tr>
-    <td class="hourColumn">18:40<br>-<br>19:20</td>
+    <td class="hourColumn">19:20<br>-<br>20:00</td>
     <td><b>Raphael Hagi</b>:<br>Top 10 API</td>
     <td><b>Kembolle Amilkar</b>:<br>Defesa Cibernética em Estruturas Corporativas</td>
     <td><b>Marcelo Revoredo</b>:<br>Técnicas para detecção de fraudes</td>
