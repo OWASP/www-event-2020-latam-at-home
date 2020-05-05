@@ -24,14 +24,14 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
     <th class="otherColumns">Sexta-Feira</th>
   </tr>
   <tr>
-    <td class="hourColumn">16:00<br>-<br>16:40</td>
+    <td class="hourColumn">16:00<br>não há conferência<br>16:40</td>
     <td>-</td>
     <td><b>Daniel Carlier</b>:<br>SecDevLabs Mobile, a laboratory for learning secure web/mobile development in a practical manner</td>
     <td><b>Eduardo Müller</b>:<br>Abusando de conversores HTML para PDF</td>
     <td><b>Wagner Morais</b>:<br>Análise de Redes Sociais com OSINT</td>
   </tr>
 <tr>
-    <td class="hourColumn">16:40<br>-<br>17:20</td>
+    <td class="hourColumn">16:40<br>não há conferência<br>17:20</td>
     <td>-</td>
     <td><b>Manoel Domingues</b>:<br>Huskyci, orquestração de análises de segurança</td>
     <td><b>Leandro Inácio</b>:<br>Automatizando o processo de reconhecimento</td>
