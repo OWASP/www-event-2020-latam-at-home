@@ -18,10 +18,10 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
 <table class="conferenceTable" border="1" style="text-align: center; width: 100%;">
   <tr>
     <th class="hourColumn">Hora</th>
-    <th class="otherColumns">Terça-Feira<br><p align="center"><a href="https://www.youtube.com/watch?v=PyVkw9niX6Q&feature=youtu.be"><img src="assets/images/Youtube_Live.png" height="20%" width="20%"></a></p></th>
-    <th class="otherColumns">Quarta-Feira<br><p align="center"><a href="https://www.youtube.com/watch?v=0PT4-IodTRw&feature=youtu.be"><img src="assets/images/Youtube_Live.png" height="20%" width="20%"></a></p></th>
-    <th class="otherColumns">Quinta-Feira</th>
-    <th class="otherColumns">Sexta-Feira</th>
+    <th class="otherColumns">Terça-Feira 5<br><p align="center"><a href="https://www.youtube.com/watch?v=PyVkw9niX6Q&feature=youtu.be"><img src="assets/images/Youtube_Live.png" height="20%" width="20%"></a></p></th>
+    <th class="otherColumns">Quarta-Feira 6<br><p align="center"><a href="https://www.youtube.com/watch?v=0PT4-IodTRw&feature=youtu.be"><img src="assets/images/Youtube_Live.png" height="20%" width="20%"></a></p></th>
+    <th class="otherColumns">Quinta-Feira 7</th>
+    <th class="otherColumns">Sexta-Feira 8</th>
   </tr>
   <tr>
     <td class="hourColumn">16:00<br>-<br>16:40</td>
