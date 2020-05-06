@@ -31,7 +31,7 @@ Para acceder a la clase:
     <td rowspan="3" class="hourColumn">14:00<br>-<br>16:00</td>
     <td valign="top" class="otherColumns"><b>Emiliano Piscitelli</b>:<br>Introducción a OSINT e Ingeniería Social<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller01-ES">AQUI</a></span></p><br>Código acceso:<br>q4kyfmt</td>
     <td valign="top" class="otherColumns"><b>Carlos Isaac</b>:<br>Haciendo una Aplicación Java Zombi<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller03-ES">AQUI</a></span></p><br>Código acceso:<br>wwbfa2i</td>
-    <td rowspan="2" valign="top" class="otherColumns"></td>
+    <td rowspan="2" valign="top" class="otherColumns">Taller pasó al sábado</td>
     <td valign="top" class="otherColumns"><b>Gustavo Nieves</b>:<br>Taller de Desarrollo Seguro con SAST y Threat Modeling Automatizado<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller07-ES">AQUI</a></span></p><br>Código acceso:<br></td>
     <td valign="top" class="otherColumns"><b>Cris Lima</b>:<br>Docker, un laboratorio de pentesting<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller10-ES">AQUI</a></span></p><br>Código acceso:<br></td>
     <td valign="top" class="otherColumns"><b>Ricardo Supo</b>:<br>SQL Injection para todos<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller05-ES">AQUI</a></span></p><br>Código acceso:<br></td>
