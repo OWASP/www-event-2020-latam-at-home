@@ -27,7 +27,7 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
     <td class="hourColumn">16:00<br>-<br>16:40</td>
     <td>não há conferência</td>
     <td><b>Daniel Carlier</b>:<br>SecDevLabs Mobile, a laboratory for learning secure web/mobile development in a practical manner</td>
-    <td><b>Eduardo Müller</b>:<br>Abusando de conversores HTML para PDF</td>
+    <td><b>Thyago Monteiro</b>:<br>Técnicas para detecção de fraudes</td>
     <td><b>Wagner Morais</b>:<br>Análise de Redes Sociais com OSINT</td>
   </tr>
 <tr>
@@ -59,7 +59,7 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
     <td class="hourColumn">19:20<br>-<br>20:00</td>
     <td><b>Raphael Hagi</b>:<br>Top 10 API</td>
     <td><b>Kembolle Amilkar</b>:<br>Defesa Cibernética em Estruturas Corporativas</td>
-    <td><b>Marcelo Revoredo</b>:<br>Técnicas para detecção de fraudes</td>
+    <td><b>Eduardo Müller</b>:<br>Abusando de conversores HTML para PDF</td>
     <td><b>Luis Araujo</b>:<br>Desenvolvimento Seguro além das ferramentas</td>
   </tr>
 <tr>
