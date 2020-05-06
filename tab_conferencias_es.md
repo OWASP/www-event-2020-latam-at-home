@@ -138,7 +138,7 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
     <td class="otherColumns"><b>Gustavo Nieves</b>:<br>Threat Modeling Automatizado</td>
     <td class="otherColumns"><b>John Copete</b>:<br>Cambiando el chip en el desarrollo de software</td>
     <td class="otherColumns"><b>Anabel Broce</b>:<br>Implementando en Producción un Sistema con una Arquitectura Segura</td>
-    <td class="otherColumns"><b>Edgard Salazar</b>:<br>Controles de seguridad más importantes para arquitectos y desarrolladores</td>
+    <td class="otherColumns"><b>Edgar Salazar</b>:<br>Controles de seguridad más importantes para arquitectos y desarrolladores</td>
     <td class="otherColumns"><b>Everth Gallegos</b>:<br>Preparando un ambiente de pruebas para apps con Xamarin</td>
   </tr>
   <tr>
