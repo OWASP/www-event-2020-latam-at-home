@@ -176,7 +176,7 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
   <tr>
     <td class="hourColumn">20:40<br>-<br>21:20</td>
     <td class="otherColumns"><b>Gabriel Bergel, Rodrigo Quevedo</b>:<br>Biohacking The Disability</td>
-    <td class="otherColumns"><b>Hector Aguirre</b>:<br>Ethical Hacking Defensivo</td>
+    <td class="otherColumns"><b>Victor Vera</b>:<br>Pentensting Web, El Arte que va más allá de las Herramientas</td>
     <td class="otherColumns"><b>Michael Hidalgo</b>:<br>MITRE ATT&CK, conociendo al adversario</td>
     <td class="otherColumns"><b>Hubert de Mercado</b>:<br>Seguridad REST API, Lo bueno, lo malo y lo feo</td>
     <td class="otherColumns"><b>Elezer Pineda</b>:<br>Threat Hunting sin colores</td>
@@ -184,7 +184,7 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
   <tr>
     <td class="hourColumn">21:20<br>-<br>22:00</td>
     <td class="otherColumns"><b>Nicolas Valcarcel</b>:<br>Secure Web Development Training for Agile Teams</td>
-    <td class="otherColumns"><b>Victor Vera</b>:<br>Pentensting Web, El Arte que va más allá de las Herramientas</td>
+    <td class="otherColumns"><b>Hector Aguirre</b>:<br>Ethical Hacking Defensivo</td>
     <td class="otherColumns"><b>Roberto Mendoza</b>:<br>Conociendo y Analizando la Dark Web</td>
     <td class="otherColumns"><b>Ricardo Supo</b>:<br>Hacking en tiempos de COVID-19, Transformación Digital sin Controles</td>
     <td class="otherColumns"><b>Gonzalo Nina</b>:<br>Técnicas efectivas de Ingeniería Social a través de redes sociales</td>
