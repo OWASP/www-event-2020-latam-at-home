@@ -42,7 +42,6 @@ Para acceder a la clase:
     <td valign="top" class="otherColumns"></td>
     <td valign="top" class="otherColumns"><b>Giovanni Cruz</b>:<br>Análisis de Artefactos en Windows<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller08-ES">AQUI</a></span></p><br>Código acceso:<br></td>
     <td valign="top" class="otherColumns"><b>Mauricio Urizar</b>:<br>Análisis Forense a Windows<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller11-ES">AQUI</a></span></p><br>Código acceso:<br></td>
-    <td valign="top" class="otherColumns"><b>Roberto Rubio</b>:<br>Manejo de las IP’s Públicas. Es un "Single Point Of Entry"<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller06-ES">AQUI</a></span></p><br>Código acceso:<br></td>
   </tr>
     <tr>
     <td class="otherColumns" colspan="3"></td>
