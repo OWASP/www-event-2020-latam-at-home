@@ -19,7 +19,7 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
   <tr>
     <th class="hourColumn">Hora</th>
     <th class="otherColumns">Terça-Feira<br><p align="center"><a href="https://www.youtube.com/watch?v=PyVkw9niX6Q&feature=youtu.be"><img src="assets/images/Youtube_Live.png" height="20%" width="20%"></a></p></th>
-    <th class="otherColumns">Quarta-Feira</th>
+    <th class="otherColumns">Quarta-Feira<br><p align="center"><a href="https://www.youtube.com/watch?v=0PT4-IodTRw&feature=youtu.be"><img src="assets/images/Youtube_Live.png" height="20%" width="20%"></a></p></th>
     <th class="otherColumns">Quinta-Feira</th>
     <th class="otherColumns">Sexta-Feira</th>
   </tr>
