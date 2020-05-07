@@ -40,11 +40,12 @@ Para acceder a la clase:
     <td valign="top" class="otherColumns"><b>José Moreno</b>:<br>OSINT Ofensivo<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller02-ES">AQUI</a></span></p><br>Código acceso:<br>cewfm2v</td>
     <td valign="top" class="otherColumns"><b>Christian Javier</b>:<br>Posicionamiento Absoluto y Temporal de Dispositivos Móviles<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller04-ES">AQUI</a></span></p><br>Código acceso:<br>tr3hrlv</td>
     <td valign="top" class="otherColumns"><b>Giovanni Cruz</b>:<br>Análisis de Artefactos en Windows<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller08-ES">AQUI</a></span></p><br>Código acceso:<br>ihc5aml</td>
+    <td valign="top" class="otherColumns"><b>César Rodríguez</b>:<br>Pentesting en Android Con Frida<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller12-ES">AQUI</a></span></p><br>Código acceso:<br>jyzdzob</td>
   </tr>
     <tr>
     <td class="otherColumns" colspan="3"></td>
     <td valign="top" class="otherColumns"><b>Pablo Barrera</b>:<br>BurpSuite 101<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller09-ES">AQUI</a></span></p><br>Código acceso:<br>nsdejxy</td>
-    <td valign="top" class="otherColumns"><b>César Rodríguez</b>:<br>Pentesting en Android Con Frida<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller12-ES">AQUI</a></span></p><br>Código acceso:<br>jyzdzob</td>
+
   </tr>
  </table>
  </div>
