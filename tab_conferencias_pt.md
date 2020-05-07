@@ -53,7 +53,9 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
   </tr>
 <tr>
     <td class="hourColumn">18:40-19:20</td>
-    <td colspan="4">BREAK</td>
+    <td colspan="2">BREAK</td>
+    <td><b>Julio Lira</b>:<br>OSINT, de stalker à bruteforcel</td>
+    <td><b>Matheus Oliveira</b>:<br>OSINT,  Amolando o machado para um pentest decisivo</td>
   </tr>
 <tr>
     <td class="hourColumn">19:20<br>-<br>20:00</td>
@@ -74,7 +76,7 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
     <td><b>Matheus Oliveira</b>:<br>OSINT,  Amolando o machado para um pentest decisivo</td>
     <td><b>Glauco Sampaio</b>:<br>Open Banking, ¿e a segurança?</td>
     <td><b>Fernando Galves</b>:<br>Protegendo Aplicações Web com OWASP ModSecurity Core Rule Set</td>
-    <td><b>Carlos Santiago</b>:<br>Fazendo 35k em bug bounty com OSINT</td>
+    <td><b>Mauricio Harley</b>:<br>Por confirmar</td>
   </tr>
 <tr>
     <td class="hourColumn">21:20<br>-<br>22:00</td>
