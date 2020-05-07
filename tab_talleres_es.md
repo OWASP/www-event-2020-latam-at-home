@@ -40,7 +40,6 @@ Para acceder a la clase:
     <td valign="top" class="otherColumns"><b>José Moreno</b>:<br>OSINT Ofensivo<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller02-ES">AQUI</a></span></p><br>Código acceso:<br>cewfm2v</td>
     <td valign="top" class="otherColumns"><b>Christian Javier</b>:<br>Posicionamiento Absoluto y Temporal de Dispositivos Móviles<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller04-ES">AQUI</a></span></p><br>Código acceso:<br>tr3hrlv</td>
     <td valign="top" class="otherColumns"><b>Giovanni Cruz</b>:<br>Análisis de Artefactos en Windows<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller08-ES">AQUI</a></span></p><br>Código acceso:<br>ihc5aml</td>
-    <td valign="top" class="otherColumns"><b>Mauricio Urizar</b>:<br>Análisis Forense a Windows<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller11-ES">AQUI</a></span></p><br>Código acceso:<br>ymol6x7</td>
   </tr>
     <tr>
     <td class="otherColumns" colspan="3"></td>
