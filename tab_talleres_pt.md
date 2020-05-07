@@ -25,7 +25,7 @@ Para acessar a turma:
   </tr>
   <tr>
     <td>14:00-16:00</td>
-    <td valign="top"><b>Raphael Hagi</b>:<br>OWASP TOP 10 e LGPD<br><br><p><span style="color:red">Registe-se <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Workshop01-PT">AQUI</a></span></p></td>
-    <td valign="top"><b>Ricardo Supo</b>:<br>SQL Injection para todos<br><br><p><span style="color:red">Registe-se <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Workshop02-PT">AQUI</a></span></p></td>
+    <td valign="top"><b>Raphael Hagi</b>:<br>OWASP TOP 10 e LGPD<br><br><p><span style="color:red">Registe-se <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Workshop01-PT">AQUI</a></span></p><br>Código acceso:<br>wwbfa2i</td>
+    <td valign="top"><b>Ricardo Supo</b>:<br>SQL Injection para todos<br><br><p><span style="color:red">Registe-se <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Workshop02-PT">AQUI</a></span></p><br>Código acceso:<br>fyfcb5i</td>
   </tr>
  </table>
