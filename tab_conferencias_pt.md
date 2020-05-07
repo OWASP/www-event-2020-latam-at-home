@@ -76,7 +76,7 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
     <td><b>Matheus Oliveira</b>:<br>OSINT,  Amolando o machado para um pentest decisivo</td>
     <td><b>Glauco Sampaio</b>:<br>Open Banking, ¿e a segurança?</td>
     <td><b>Fernando Galves</b>:<br>Protegendo Aplicações Web com OWASP ModSecurity Core Rule Set</td>
-    <td><b>Mauricio Harley</b>:<br>Por confirmar</td>
+    <td><b>Maur&iacute;cio Harley:</b>:<br>MITRE ATT&CK - Tinta Roxa na CALDERA</td>
   </tr>
 <tr>
     <td class="hourColumn">21:20<br>-<br>22:00</td>
