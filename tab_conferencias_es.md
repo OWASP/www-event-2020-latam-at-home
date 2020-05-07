@@ -66,7 +66,7 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
     <th class="otherColumns">Lunes 4<br><p align="center"><a href="https://www.youtube.com/watch?v=jLXMbpcrPyA&feature=youtu.be"><img src="assets/images/Youtube_Live.png" height="20%" width="20%"></a></p></th>
     <th class="otherColumns">Martes 5<br><p align="center"><a href="https://www.youtube.com/watch?v=DeMOLKCMBds&feature=youtu.be"><img src="assets/images/Youtube_Live.png" height="20%" width="20%"></a></p></th>
     <th class="otherColumns">Miércoles 6<br><p align="center"><a href="https://www.youtube.com/watch?v=eBvRJJ0rlCM&feature=youtu.be"><img src="assets/images/Youtube_Live.png" height="20%" width="20%"></a></p></th>
-    <th class="otherColumns">Jueves 7</th>
+    <th class="otherColumns">Jueves 7<br><p align="center"><a href="https://www.youtube.com/watch?v=yuR8580F7Mc&feature=youtu.be"><img src="assets/images/Youtube_Live.png" height="20%" width="20%"></a></p></th>
     <th class="otherColumns">Viernes 8</th>
   </tr>
   <tr>
