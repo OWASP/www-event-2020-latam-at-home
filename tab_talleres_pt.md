@@ -14,7 +14,7 @@ tags: LatamTour2020
 <br>
 Para acessar a turma:
 1. Registre-se nos links localizados em cada workshop.
-2. Com uma conta @owasp.org ou @gmail.com, adicione o código en Google Classroom, conforme indicado no manual a seguir, usando o código de cada workshop: shorturl.at/knJP6
+2. Com uma conta @owasp.org ou @gmail.com, adicione o código en Google Classroom, conforme indicado no manual a seguir, usando o código de cada workshop: [shorturl.at/knJP6](https://support.google.com/edu/classroom/answer/6020297?co=GENIE.Platform%3DDesktop&hl=pt)
 <br><br>
 
 <table width="100%" border="1" style="text-align:center;">
