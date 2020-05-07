@@ -179,7 +179,7 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
     <td class="otherColumns"><b>Victor Vera</b>:<br>Pentensting Web, El Arte que va más allá de las Herramientas</td>
     <td class="otherColumns"><b>Michael Hidalgo</b>:<br>MITRE ATT&CK, conociendo al adversario</td>
     <td class="otherColumns"><b>Hubert de Mercado</b>:<br>Seguridad REST API, Lo bueno, lo malo y lo feo</td>
-    <td class="otherColumns"><b>Elezer Pineda</b>:<br>Threat Hunting sin colores</td>
+    <td class="otherColumns"><b>Elzer Pineda</b>:<br>Threat Hunting sin colores</td>
   </tr>
   <tr>
     <td class="hourColumn">21:20<br>-<br>22:00</td>
