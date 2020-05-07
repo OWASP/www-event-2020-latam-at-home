@@ -45,7 +45,7 @@ Para acceder a la clase:
     <tr>
     <td class="otherColumns" colspan="3"></td>
     <td valign="top" class="otherColumns"><b>Pablo Barrera</b>:<br>BurpSuite 101<br><br><p><span style="color:red">Regístrate <a href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Taller09-ES">AQUI</a></span></p><br>Código acceso:<br>nsdejxy</td>
-
+    <td class="otherColumns" colspan="2"></td>
   </tr>
  </table>
  </div>
