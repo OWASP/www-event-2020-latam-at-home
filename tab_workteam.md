@@ -37,13 +37,13 @@ Muchos líderes de Capítulos OWASP de Latinoamérica colaboraron en esta inicia
 
 ## Implementadores del CTF Latam@Home
 
-* [Yehude Huayhua Jurado](https://twitter.com/yehuju)
-* Cesar Neira (@alguien_tw)
-* Everth Juvenal Gallegos Puma (@PerverthsO)
+* [Cesar Neira](http://twitter.com/alguien_tw)
+* [Everth Gallegos](http://twitter.com/PerverthsO)
+* [Ezequiel Moreno](http://twitter.com/_tommoreno)
+* [Yehude Huayhua Jurado](http://twitter.com/yehuju)
 * Alejandro Sabolansky
 * Jeremías Pretto
 * Mateo Durante
-* Ezequiel Moreno (@_tommoreno)
 * Nicolás Macia
 * Einar Lanfranco
 * NOX
