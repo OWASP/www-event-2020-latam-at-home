@@ -119,7 +119,7 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
   </tr>
   <tr>
     <td class="hourColumn">16:00<br>-<br>16:40</td>
-    <td class="otherColumns"><b>Diego Ademir</b>:<br>OWASP ASVS, Guía de seguridad para aplicaciones web por excelencia</td>
+    <td class="otherColumns"><b>Diego Ademir</b>:<br>[OWASP ASVS, Guía de seguridad para aplicaciones web por excelencia](https://owasp.org/www-event-2020-latam-at-home/docs/presentations/DiegoAdemir_ASVS.pdf)</td>
     <td class="otherColumns"><b>Omar Palomino</b>:<br>Técnicas de Post Explotación y Backdoors en ambientes Microsoft Windows y Linux</td>
     <td class="otherColumns"><b>Mateo Martínez</b>:<br>Implementando OWASP SAMM en Latinoamerica</td>
     <td class="otherColumns"><b>Alejandro Iacobelli, Pablo Garbossa</b>:<br>Bug Bounty, One year later</td>
