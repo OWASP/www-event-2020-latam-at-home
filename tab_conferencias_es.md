@@ -161,7 +161,7 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
     <td class="hourColumn">19:20<br>-<br>20:00</td>
     <td class="otherColumns"><b>Gabriel Llumiquinga</b>:<br>Desarrollo de las Cibercomunidades en la Región</td>
     <td class="otherColumns"><b>Josué Rojas</b>:<br>From window to System, developing an exploit</td>
-    <td class="otherColumns"><b>Armando Rodas</b>:<br>OSINT, Técnicas de Reconocimiento en un Test de Intrusión</td>
+    <td class="otherColumns"><b>Armando Rodas</b>:<br><a href="https://owasp.org/www-event-2020-latam-at-home/docs/presentations/ArmandoRodas_OSINT.pdf">OSINT, Técnicas de Reconocimiento en un Test de Intrusión</a></td>
     <td class="otherColumns"><b>Eduardo Snape</b>:<br>Gestión de seguridad con ISM3, la alternativa luego de un Pentest</td>
     <td class="otherColumns"><b>Rodrigo Valero</b>:<br>Protección de acceso a las aplicaciones bajo Secure Access Service Edge</td>
   </tr>
