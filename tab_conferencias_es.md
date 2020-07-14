@@ -146,7 +146,7 @@ Registrate en: [http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974
     <td class="otherColumns"><b>Elvin Mollinedo</b>:<br>¿Cómo proteger aplicaciones web aunque sean Vulnerables?</td>
     <td class="otherColumns"><b>Darwin Algarin</b>:<br>Hacking RFID con proxmark 3</td>
     <td class="otherColumns"><b>Eduardo Jana</b>:<br>Webshell webapp</td>
-    <td class="otherColumns"><b>Sandy Palma</b>:<br>La Gobernanza de la Información</td>
+    <td class="otherColumns"><b>Sandy Palma</b>:<br><a href="https://owasp.org/www-event-2020-latam-at-home/docs/presentations/SandyPalma_GobernanzaInformacion.pdf">La Gobernanza de la Información</a></td>
     <td class="otherColumns"><b>Juan Quiñe</b>:<br>Cómo generar valor a través del informe de Ethical hacking</td>
   </tr>
   <tr>
